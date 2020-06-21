@@ -1,0 +1,772 @@
+64:
+
+Top 8 rated words: [tissue (19), organs (19), human (20), containment (22), subject (17), body (17), samples (12), blood (14)]
+[scp-673.txt, scp-008.txt, scp-422.txt, scp-510.txt, scp-726.txt, scp-193.txt, scp-604.txt, scp-811.txt, scp-763.txt, scp-441.txt, scp-734.txt, scp-427.txt, scp-534.txt, scp-827.txt, scp-797.txt, scp-352.txt, scp-415.txt, scp-291.txt, scp-660.txt, scp-817.txt, scp-212.txt, scp-401.txt]
+Size: 22
+Self-similarity: 0.19517831619676326
+
+Top 8 rated words: [age (13), denied (6), request (10), years (15), claims (12), scp (14), containment (17), foundation (16)]
+[scp-493.txt, scp-208.txt, scp-661.txt, scp-134.txt, scp-590.txt, scp-202.txt, scp-040.txt, scp-776.txt, scp-014.txt, scp-545.txt, scp-321.txt, scp-275.txt, scp-347.txt, scp-657.txt, scp-172.txt, scp-542.txt, scp-029.txt]
+Size: 17
+Self-similarity: 0.1802838996549933
+
+Top 8 rated words: [testing (16), personnel (14), security (14), scp (11), object (16), subject (12), clearance (14), level (14)]
+[scp-117.txt, scp-002.txt, scp-399.txt, scp-181.txt, scp-595.txt, scp-539.txt, scp-914.txt, scp-722.txt, scp-090.txt, scp-239.txt, scp-507.txt, scp-946.txt, scp-256.txt, scp-668.txt, scp-196.txt, scp-276.txt]
+Size: 16
+Self-similarity: 0.19509446999942287
+
+Top 8 rated words: [chamber (18), containment (19), personnel (19), dr (15), testing (15), light (12), object (19), time (16)]
+[scp-337.txt, scp-997.txt, scp-861.txt, scp-536.txt, scp-362.txt, scp-403.txt, scp-457.txt, scp-075.txt, scp-628.txt, scp-128.txt, scp-205.txt, scp-282.txt, scp-499.txt, scp-538.txt, scp-155.txt, scp-310.txt, scp-577.txt, scp-060.txt, scp-689.txt]
+Size: 19
+Self-similarity: 0.18407161556218068
+
+Top 8 rated words: [mr (18), dr (15), containment (18), foundation (15), time (14), interview (12), effect (12), mister (6)]
+[scp-127.txt, scp-629.txt, scp-917.txt, scp-426.txt, scp-644.txt, scp-662.txt, scp-706.txt, scp-909.txt, scp-400.txt, scp-960.txt, scp-833.txt, scp-425.txt, scp-285.txt, scp-572.txt, scp-913.txt, scp-323.txt, scp-527.txt, scp-870.txt]
+Size: 18
+Self-similarity: 0.23957258240564172
+
+Top 8 rated words: [location (11), park (7), foundation (12), city (4), ride (4), facility (5), destination (5), time (11)]
+[scp-476.txt, scp-599.txt, scp-949.txt, scp-112.txt, scp-036.txt, scp-110.txt, scp-492.txt, scp-120.txt, scp-900.txt, scp-396.txt, scp-920.txt, scp-778.txt]
+Size: 12
+Self-similarity: 0.18775357264404954
+
+Top 8 rated words: [containment (18), cell (12), research (17), time (17), staff (12), personnel (16), attempts (14), procedures (10)]
+[scp-251.txt, scp-654.txt, scp-161.txt, scp-501.txt, scp-550.txt, scp-451.txt, scp-214.txt, scp-088.txt, scp-428.txt, scp-114.txt, scp-213.txt, scp-035.txt, scp-103.txt, scp-116.txt, scp-231.txt, scp-699.txt, scp-106.txt, scp-430.txt]
+Size: 18
+Self-similarity: 0.19017915137034913
+
+Top 8 rated words: [instances (31), containment (31), research (19), foundation (23), personnel (21), anomalous (17), attempts (21), object (31)]
+[scp-132.txt, scp-566.txt, scp-864.txt, scp-635.txt, scp-121.txt, scp-022.txt, scp-643.txt, scp-871.txt, scp-785.txt, scp-862.txt, scp-449.txt, scp-853.txt, scp-613.txt, scp-881.txt, scp-210.txt, scp-569.txt, scp-039.txt, scp-715.txt, scp-975.txt, scp-199.txt, scp-839.txt, scp-903.txt, scp-784.txt, scp-792.txt, scp-406.txt, scp-563.txt, scp-703.txt, scp-755.txt, scp-675.txt, scp-918.txt, scp-237.txt]
+Size: 31
+Self-similarity: 0.18877209611136142
+
+Top 8 rated words: [dr (9), interview (8), foundation (10), meters (9), portion (6), containment (11), manufactured (4), island (3)]
+[scp-574.txt, scp-437.txt, scp-908.txt, scp-874.txt, scp-930.txt, scp-473.txt, scp-748.txt, scp-186.txt, scp-761.txt, scp-744.txt, scp-828.txt]
+Size: 11
+Self-similarity: 0.18824612371676672
+
+Top 8 rated words: [writing (7), pills (3), time (8), subject (6), object (9), number (5), written (6), effect (7)]
+[scp-474.txt, scp-586.txt, scp-887.txt, scp-546.txt, scp-443.txt, scp-500.txt, scp-696.txt, scp-876.txt, scp-931.txt]
+Size: 9
+Self-similarity: 0.20982571315952073
+
+Top 8 rated words: [effect (13), containment (14), area (11), object (14), affected (9), structure (8), material (10), growth (6)]
+[scp-097.txt, scp-409.txt, scp-754.txt, scp-512.txt, scp-505.txt, scp-954.txt, scp-649.txt, scp-989.txt, scp-836.txt, scp-135.txt, scp-880.txt, scp-697.txt, scp-159.txt, scp-188.txt]
+Size: 14
+Self-similarity: 0.18870249719329157
+
+Top 8 rated words: [mass (11), material (11), containment (12), rate (8), samples (6), temperature (6), observed (9), increase (6)]
+[scp-788.txt, scp-391.txt, scp-320.txt, scp-003.txt, scp-840.txt, scp-015.txt, scp-770.txt, scp-424.txt, scp-421.txt, scp-837.txt, scp-148.txt, scp-357.txt]
+Size: 12
+Self-similarity: 0.19317477728442478
+
+Top 8 rated words: [phone (8), conversation (9), called (8), containment (13), nature (9), subject (11), human (11), request (10)]
+[scp-220.txt, scp-397.txt, scp-600.txt, scp-750.txt, scp-467.txt, scp-356.txt, scp-126.txt, scp-992.txt, scp-519.txt, scp-166.txt, scp-971.txt, scp-145.txt, scp-266.txt]
+Size: 13
+Self-similarity: 0.2075428602128054
+
+Top 8 rated words: [language (8), state (9), letter (6), research (11), foundation (13), request (8), made (9), subject (10)]
+[scp-738.txt, scp-758.txt, scp-983.txt, scp-684.txt, scp-317.txt, scp-652.txt, scp-410.txt, scp-287.txt, scp-381.txt, scp-521.txt, scp-030.txt, scp-361.txt, scp-130.txt]
+Size: 13
+Self-similarity: 0.17357398866270957
+
+Top 8 rated words: [object (14), performed (7), appears (13), item (14), containment (14), foundation (11), properties (8), addendum (8)]
+[scp-044.txt, scp-064.txt, scp-608.txt, scp-890.txt, scp-680.txt, scp-313.txt, scp-333.txt, scp-063.txt, scp-488.txt, scp-786.txt, scp-192.txt, scp-988.txt, scp-964.txt, scp-433.txt]
+Size: 14
+Self-similarity: 0.18637325255271656
+
+Top 8 rated words: [liquid (6), sand (3), item (9), personnel (7), candle (2), small (7), containment (9), security (7)]
+[scp-830.txt, scp-261.txt, scp-559.txt, scp-777.txt, scp-294.txt, scp-743.txt, scp-394.txt, scp-006.txt, scp-440.txt]
+Size: 9
+Self-similarity: 0.20750863745505715
+
+Top 8 rated words: [code (5), run (4), user (4), file (3), command (3), program (3), testing (5), date (3)]
+[scp-603.txt, scp-896.txt, scp-614.txt, scp-001.txt, scp-061.txt, scp-245.txt]
+Size: 6
+Self-similarity: 0.2585386424830649
+
+Top 8 rated words: [containment (13), event (8), foundation (10), special (13), remain (10), attempts (11), physical (10), time (11)]
+[scp-204.txt, scp-453.txt, scp-515.txt, scp-974.txt, scp-089.txt, scp-058.txt, scp-273.txt, scp-638.txt, scp-953.txt, scp-250.txt, scp-524.txt, scp-601.txt, scp-552.txt]
+Size: 13
+Self-similarity: 0.18701558450332187
+
+Top 8 rated words: [victims (15), containment (15), enter (12), human (12), personnel (13), instances (8), hunting (6), area (11)]
+[scp-932.txt, scp-783.txt, scp-513.txt, scp-984.txt, scp-782.txt, scp-844.txt, scp-532.txt, scp-956.txt, scp-469.txt, scp-631.txt, scp-478.txt, scp-966.txt, scp-267.txt, scp-688.txt, scp-779.txt]
+Size: 15
+Self-similarity: 0.20686887042429183
+
+Top 8 rated words: [exploration (14), door (12), dr (9), personnel (15), team (9), walls (13), log (11), document (9)]
+[scp-860.txt, scp-648.txt, scp-982.txt, scp-108.txt, scp-087.txt, scp-057.txt, scp-211.txt, scp-026.txt, scp-636.txt, scp-413.txt, scp-518.txt, scp-238.txt, scp-432.txt, scp-216.txt, scp-455.txt, scp-249.txt]
+Size: 16
+Self-similarity: 0.19957361492501985
+
+Top 8 rated words: [prey (15), colony (9), containment (16), large (14), feeding (10), animals (9), special (16), small (10)]
+[scp-157.txt, scp-672.txt, scp-160.txt, scp-968.txt, scp-359.txt, scp-749.txt, scp-851.txt, scp-098.txt, scp-346.txt, scp-165.txt, scp-995.txt, scp-218.txt, scp-885.txt, scp-906.txt, scp-548.txt, scp-312.txt]
+Size: 16
+Self-similarity: 0.19486642326004264
+
+Top 8 rated words: [mirror (10), subject (14), reflection (9), eyes (10), containment (18), testing (11), surface (7), effect (14)]
+[scp-013.txt, scp-718.txt, scp-987.txt, scp-023.txt, scp-818.txt, scp-944.txt, scp-093.txt, scp-316.txt, scp-712.txt, scp-919.txt, scp-905.txt, scp-525.txt, scp-412.txt, scp-125.txt, scp-163.txt, scp-980.txt, scp-558.txt, scp-280.txt]
+Size: 18
+Self-similarity: 0.1968359106331327
+
+Top 8 rated words: [orbit (11), planet (6), earth (11), object (13), research (10), years (10), surface (10), data (9)]
+[scp-907.txt, scp-225.txt, scp-364.txt, scp-319.txt, scp-144.txt, scp-037.txt, scp-669.txt, scp-756.txt, scp-685.txt, scp-179.txt, scp-341.txt, scp-736.txt, scp-435.txt]
+Size: 13
+Self-similarity: 0.1988647846034421
+
+Top 8 rated words: [sphere (5), force (7), containment (9), object (9), magnetic (4), room (7), scp (5), foundation (7)]
+[scp-133.txt, scp-345.txt, scp-184.txt, scp-555.txt, scp-271.txt, scp-123.txt, scp-732.txt, scp-283.txt, scp-709.txt]
+Size: 9
+Self-similarity: 0.21026772167141758
+
+Top 8 rated words: [room (17), containment (17), personnel (16), time (15), object (17), move (9), observed (7), enter (13)]
+[scp-080.txt, scp-372.txt, scp-470.txt, scp-017.txt, scp-598.txt, scp-136.txt, scp-339.txt, scp-326.txt, scp-826.txt, scp-700.txt, scp-053.txt, scp-671.txt, scp-198.txt, scp-070.txt, scp-523.txt, scp-176.txt, scp-681.txt]
+Size: 17
+Self-similarity: 0.19415175561429096
+
+Top 8 rated words: [manifestation (9), read (8), appears (14), time (15), narrative (3), page (7), physical (10), subject (10)]
+[scp-423.txt, scp-609.txt, scp-781.txt, scp-582.txt, scp-460.txt, scp-789.txt, scp-986.txt, scp-592.txt, scp-141.txt, scp-965.txt, scp-583.txt, scp-382.txt, scp-899.txt, scp-152.txt, scp-077.txt]
+Size: 15
+Self-similarity: 0.1972102963708444
+
+Top 8 rated words: [subject (36), testing (29), removed (24), minutes (24), experiment (23), object (36), containment (36), effect (28)]
+[scp-290.txt, scp-330.txt, scp-626.txt, scp-308.txt, scp-138.txt, scp-156.txt, scp-393.txt, scp-774.txt, scp-131.txt, scp-203.txt, scp-209.txt, scp-809.txt, scp-825.txt, scp-832.txt, scp-272.txt, scp-596.txt, scp-486.txt, scp-721.txt, scp-690.txt, scp-497.txt, scp-475.txt, scp-801.txt, scp-702.txt, scp-723.txt, scp-434.txt, scp-859.txt, scp-463.txt, scp-007.txt, scp-146.txt, scp-221.txt, scp-916.txt, scp-819.txt, scp-241.txt, scp-302.txt, scp-911.txt, scp-067.txt]
+Size: 36
+Self-similarity: 0.19922204811692562
+
+Top 8 rated words: [animals (9), constructed (6), object (11), item (11), properties (10), special (11), meters (7), observed (6)]
+[scp-665.txt, scp-962.txt, scp-529.txt, scp-387.txt, scp-100.txt, scp-369.txt, scp-594.txt, scp-243.txt, scp-854.txt, scp-872.txt, scp-808.txt]
+Size: 11
+Self-similarity: 0.1916820489072358
+
+Top 8 rated words: [individuals (16), affected (12), containment (17), human (14), effect (14), population (10), infection (10), foundation (15)]
+[scp-730.txt, scp-255.txt, scp-553.txt, scp-046.txt, scp-938.txt, scp-632.txt, scp-587.txt, scp-468.txt, scp-405.txt, scp-020.txt, scp-436.txt, scp-796.txt, scp-571.txt, scp-752.txt, scp-444.txt, scp-957.txt, scp-618.txt]
+Size: 17
+Self-similarity: 0.18698546824154053
+
+Top 8 rated words: [testing (15), armed (10), subject (13), hand (12), wear (10), left (10), item (14), legs (7)]
+[scp-912.txt, scp-025.txt, scp-288.txt, scp-568.txt, scp-247.txt, scp-418.txt, scp-619.txt, scp-950.txt, scp-187.txt, scp-154.txt, scp-311.txt, scp-841.txt, scp-262.txt, scp-494.txt, scp-564.txt]
+Size: 15
+Self-similarity: 0.18420611698280157
+
+Top 8 rated words: [vehicle (14), drive (12), time (14), object (15), state (10), foundation (14), agent (11), care (8)]
+[scp-634.txt, scp-941.txt, scp-708.txt, scp-704.txt, scp-342.txt, scp-289.txt, scp-115.txt, scp-605.txt, scp-462.txt, scp-802.txt, scp-694.txt, scp-858.txt, scp-973.txt, scp-265.txt, scp-490.txt]
+Size: 15
+Self-similarity: 0.20930852716621248
+
+Top 8 rated words: [area (15), containment (18), appears (15), form (14), observed (16), organs (13), object (18), swarm (4)]
+[scp-477.txt, scp-236.txt, scp-850.txt, scp-084.txt, scp-183.txt, scp-367.txt, scp-771.txt, scp-416.txt, scp-386.txt, scp-667.txt, scp-575.txt, scp-376.txt, scp-795.txt, scp-101.txt, scp-705.txt, scp-229.txt, scp-716.txt, scp-882.txt]
+Size: 18
+Self-similarity: 0.18921441031368205
+
+Top 8 rated words: [water (19), testing (15), temperature (11), containment (19), object (19), time (15), body (10), remain (15)]
+[scp-365.txt, scp-676.txt, scp-630.txt, scp-109.txt, scp-663.txt, scp-812.txt, scp-856.txt, scp-622.txt, scp-009.txt, scp-729.txt, scp-054.txt, scp-924.txt, scp-402.txt, scp-791.txt, scp-042.txt, scp-244.txt, scp-242.txt, scp-045.txt, scp-642.txt]
+Size: 19
+Self-similarity: 0.20830734487266533
+
+Top 8 rated words: [dial (4), alarm (3), control (4), time (7), clock (5), function (8), containment (11), object (11)]
+[scp-768.txt, scp-495.txt, scp-119.txt, scp-240.txt, scp-459.txt, scp-464.txt, scp-278.txt, scp-227.txt, scp-281.txt, scp-429.txt, scp-498.txt]
+Size: 11
+Self-similarity: 0.1893597694182837
+
+Top 8 rated words: [blood (10), clones (3), subject (7), personnel (10), item (12), object (12), effect (7), organs (6)]
+[scp-829.txt, scp-790.txt, scp-942.txt, scp-012.txt, scp-222.txt, scp-541.txt, scp-038.txt, scp-910.txt, scp-298.txt, scp-456.txt, scp-773.txt, scp-578.txt]
+Size: 12
+Self-similarity: 0.20119971742301845
+
+Top 8 rated words: [data (19), expunged (17), containment (19), attempts (16), redacted (9), foundation (15), appears (14), event (9)]
+[scp-713.txt, scp-270.txt, scp-866.txt, scp-549.txt, scp-835.txt, scp-191.txt, scp-062.txt, scp-363.txt, scp-102.txt, scp-616.txt, scp-998.txt, scp-597.txt, scp-579.txt, scp-200.txt, scp-976.txt, scp-567.txt, scp-560.txt, scp-279.txt, scp-612.txt]
+Size: 19
+Self-similarity: 0.1934361107873449
+
+Top 8 rated words: [plant (20), trees (13), grow (16), seeds (12), fruit (7), testing (16), special (22), foundation (19)]
+[scp-504.txt, scp-124.txt, scp-107.txt, scp-344.txt, scp-197.txt, scp-417.txt, scp-540.txt, scp-780.txt, scp-407.txt, scp-299.txt, scp-322.txt, scp-843.txt, scp-757.txt, scp-355.txt, scp-506.txt, scp-143.txt, scp-621.txt, scp-891.txt, scp-307.txt, scp-615.txt, scp-937.txt, scp-824.txt]
+Size: 22
+Self-similarity: 0.18390434557781568
+
+Top 8 rated words: [special (8), offspring (6), female (7), unknown (4), parents (3), animals (5), organs (5), containment (8)]
+[scp-886.txt, scp-816.txt, scp-889.txt, scp-051.txt, scp-646.txt, scp-929.txt, scp-561.txt, scp-257.txt]
+Size: 8
+Self-similarity: 0.22626080417618952
+
+Top 8 rated words: [figure (9), status (8), meters (8), containment (13), item (13), personnel (9), object (13), unknown (9)]
+[scp-531.txt, scp-875.txt, scp-050.txt, scp-264.txt, scp-496.txt, scp-926.txt, scp-174.txt, scp-011.txt, scp-296.txt, scp-650.txt, scp-274.txt, scp-068.txt, scp-787.txt]
+Size: 13
+Self-similarity: 0.2159487750462602
+
+Top 8 rated words: [memory (12), subject (12), samples (8), testing (13), information (10), time (13), age (6), foundation (14)]
+[scp-079.txt, scp-034.txt, scp-576.txt, scp-484.txt, scp-348.txt, scp-888.txt, scp-664.txt, scp-483.txt, scp-351.txt, scp-411.txt, scp-324.txt, scp-769.txt, scp-073.txt, scp-759.txt]
+Size: 14
+Self-similarity: 0.19932166988154826
+
+Top 8 rated words: [specimens (27), containment (27), organs (17), special (27), observed (20), human (21), object (27), attempts (18)]
+[scp-831.txt, scp-822.txt, scp-295.txt, scp-640.txt, scp-803.txt, scp-939.txt, scp-845.txt, scp-655.txt, scp-019.txt, scp-153.txt, scp-857.txt, scp-745.txt, scp-452.txt, scp-863.txt, scp-581.txt, scp-625.txt, scp-252.txt, scp-955.txt, scp-588.txt, scp-659.txt, scp-879.txt, scp-925.txt, scp-848.txt, scp-111.txt, scp-799.txt, scp-760.txt, scp-994.txt]
+Size: 27
+Self-similarity: 0.20071655505558822
+
+Top 8 rated words: [view (13), image (10), subject (11), recorded (10), question (9), scene (8), data (12), testing (9)]
+[scp-674.txt, scp-656.txt, scp-508.txt, scp-543.txt, scp-091.txt, scp-228.txt, scp-300.txt, scp-259.txt, scp-206.txt, scp-263.txt, scp-842.txt, scp-419.txt, scp-528.txt, scp-767.txt, scp-315.txt, scp-993.txt]
+Size: 16
+Self-similarity: 0.19202912564525718
+
+Top 8 rated words: [meters (7), space (4), wear (7), object (8), speed (3), personnel (6), containment (8), item (8)]
+[scp-018.txt, scp-095.txt, scp-677.txt, scp-627.txt, scp-852.txt, scp-883.txt, scp-489.txt, scp-139.txt]
+Size: 8
+Self-similarity: 0.19239731214589162
+
+Top 8 rated words: [foundation (14), individuals (13), document (9), personnel (10), identified (11), event (9), containment (14), consistent (10)]
+[scp-554.txt, scp-892.txt, scp-140.txt, scp-945.txt, scp-869.txt, scp-392.txt, scp-360.txt, scp-991.txt, scp-349.txt, scp-277.txt, scp-580.txt, scp-922.txt, scp-562.txt, scp-431.txt]
+Size: 14
+Self-similarity: 0.1855172144274036
+
+Top 8 rated words: [subject (25), effect (24), personnel (24), time (23), exposed (16), testing (19), exposure (16), enter (20)]
+[scp-849.txt, scp-028.txt, scp-710.txt, scp-301.txt, scp-358.txt, scp-765.txt, scp-472.txt, scp-072.txt, scp-078.txt, scp-071.txt, scp-182.txt, scp-122.txt, scp-056.txt, scp-901.txt, scp-292.txt, scp-480.txt, scp-620.txt, scp-959.txt, scp-305.txt, scp-623.txt, scp-336.txt, scp-230.txt, scp-666.txt, scp-113.txt, scp-201.txt]
+Size: 25
+Self-similarity: 0.20038807308742534
+
+Top 8 rated words: [play (12), song (9), recorded (10), music (7), listeners (4), testing (8), agent (9), enter (7)]
+[scp-043.txt, scp-537.txt, scp-952.txt, scp-624.txt, scp-327.txt, scp-092.txt, scp-573.txt, scp-725.txt, scp-701.txt, scp-373.txt, scp-332.txt, scp-814.txt, scp-235.txt]
+Size: 13
+Self-similarity: 0.19648560128672354
+
+Top 8 rated words: [photographs (9), photo (6), target (6), testing (12), fire (6), dr (12), time (14), object (14)]
+[scp-260.txt, scp-923.txt, scp-516.txt, scp-223.txt, scp-565.txt, scp-733.txt, scp-085.txt, scp-978.txt, scp-517.txt, scp-404.txt, scp-105.txt, scp-740.txt, scp-254.txt, scp-865.txt]
+Size: 14
+Self-similarity: 0.20751878591664766
+
+Top 8 rated words: [owner (6), scp (9), containment (10), locked (6), item (10), research (6), person (7), time (8)]
+[scp-442.txt, scp-048.txt, scp-368.txt, scp-810.txt, scp-617.txt, scp-485.txt, scp-894.txt, scp-693.txt, scp-395.txt, scp-834.txt]
+Size: 10
+Self-similarity: 0.21869492307201277
+
+Top 8 rated words: [host (22), subject (15), containment (23), infestation (7), specimens (9), body (18), skin (13), human (20)]
+[scp-637.txt, scp-751.txt, scp-027.txt, scp-180.txt, scp-171.txt, scp-366.txt, scp-927.txt, scp-658.txt, scp-775.txt, scp-371.txt, scp-695.txt, scp-383.txt, scp-439.txt, scp-164.txt, scp-813.txt, scp-074.txt, scp-189.txt, scp-269.txt, scp-772.txt, scp-867.txt, scp-021.txt, scp-378.txt, scp-611.txt]
+Size: 23
+Self-similarity: 0.2131880290256751
+
+Top 8 rated words: [game (12), play (11), testing (10), move (9), subject (9), player (5), foundation (11), winning (6)]
+[scp-935.txt, scp-958.txt, scp-687.txt, scp-503.txt, scp-928.txt, scp-951.txt, scp-024.txt, scp-177.txt, scp-591.txt, scp-720.txt, scp-286.txt, scp-190.txt]
+Size: 12
+Self-similarity: 0.2202322459735637
+
+Top 8 rated words: [agent (19), dr (11), foundation (18), personnel (15), containment (19), reported (13), attempts (15), subject (14)]
+[scp-178.txt, scp-766.txt, scp-511.txt, scp-682.txt, scp-798.txt, scp-388.txt, scp-398.txt, scp-224.txt, scp-491.txt, scp-653.txt, scp-607.txt, scp-052.txt, scp-354.txt, scp-897.txt, scp-884.txt, scp-466.txt, scp-933.txt, scp-069.txt, scp-335.txt]
+Size: 19
+Self-similarity: 0.18639215396003914
+
+Top 8 rated words: [subject (18), item (18), wear (11), effect (16), object (18), containment (18), time (14), attempts (13)]
+[scp-678.txt, scp-082.txt, scp-375.txt, scp-727.txt, scp-162.txt, scp-438.txt, scp-683.txt, scp-293.txt, scp-031.txt, scp-482.txt, scp-104.txt, scp-350.txt, scp-194.txt, scp-714.txt, scp-215.txt, scp-570.txt, scp-268.txt, scp-454.txt]
+Size: 18
+Self-similarity: 0.18975261930327847
+
+Top 8 rated words: [testing (8), dr (8), stick (3), meters (6), small (7), pencil (2), folded (2), components (3)]
+[scp-170.txt, scp-585.txt, scp-445.txt, scp-086.txt, scp-248.txt, scp-996.txt, scp-010.txt, scp-331.txt]
+Size: 8
+Self-similarity: 0.21617586694197893
+
+Top 8 rated words: [paint (7), film (4), image (5), foundation (11), containment (11), appears (7), eyes (6), time (9)]
+[scp-246.txt, scp-981.txt, scp-173.txt, scp-878.txt, scp-099.txt, scp-151.txt, scp-258.txt, scp-806.txt, scp-800.txt, scp-556.txt, scp-753.txt]
+Size: 11
+Self-similarity: 0.2109632258372968
+
+Top 8 rated words: [bottle (6), testing (9), item (11), subject (7), containment (11), result (7), effect (9), washed (4)]
+[scp-195.txt, scp-207.txt, scp-985.txt, scp-815.txt, scp-807.txt, scp-533.txt, scp-379.txt, scp-325.txt, scp-692.txt, scp-389.txt, scp-969.txt]
+Size: 11
+Self-similarity: 0.18666660189706483
+
+Top 8 rated words: [infection (27), subject (24), stage (17), containment (27), symptoms (20), human (21), treated (17), personnel (22)]
+[scp-306.txt, scp-936.txt, scp-898.txt, scp-940.txt, scp-904.txt, scp-742.txt, scp-679.txt, scp-217.txt, scp-868.txt, scp-584.txt, scp-593.txt, scp-610.txt, scp-972.txt, scp-340.txt, scp-370.txt, scp-589.txt, scp-420.txt, scp-016.txt, scp-047.txt, scp-081.txt, scp-651.txt, scp-059.txt, scp-353.txt, scp-149.txt, scp-253.txt, scp-129.txt, scp-686.txt]
+Size: 27
+Self-similarity: 0.2183604161051246
+
+Top 8 rated words: [device (17), computer (6), effect (13), object (17), containment (17), foundation (15), large (12), connected (7)]
+[scp-385.txt, scp-633.txt, scp-142.txt, scp-297.txt, scp-380.txt, scp-005.txt, scp-821.txt, scp-158.txt, scp-033.txt, scp-762.txt, scp-804.txt, scp-535.txt, scp-520.txt, scp-915.txt, scp-390.txt, scp-219.txt, scp-328.txt]
+Size: 17
+Self-similarity: 0.1900115057267519
+
+Top 8 rated words: [broadcast (7), signs (7), received (9), transmission (7), radio (5), foundation (9), transmitted (8), frequency (5)]
+[scp-338.txt, scp-471.txt, scp-719.txt, scp-169.txt, scp-711.txt, scp-185.txt, scp-041.txt, scp-147.txt, scp-877.txt, scp-724.txt, scp-304.txt]
+Size: 11
+Self-similarity: 0.21193109979605457
+
+Top 8 rated words: [dr (27), interview (23), subject (20), foundation (26), expletive (5), question (18), time (26), containment (27)]
+[scp-547.txt, scp-645.txt, scp-735.txt, scp-137.txt, scp-414.txt, scp-963.txt, scp-990.txt, scp-049.txt, scp-948.txt, scp-838.txt, scp-947.txt, scp-150.txt, scp-846.txt, scp-943.txt, scp-374.txt, scp-096.txt, scp-639.txt, scp-893.txt, scp-606.txt, scp-691.txt, scp-408.txt, scp-544.txt, scp-343.txt, scp-746.txt, scp-232.txt, scp-168.txt, scp-032.txt]
+Size: 27
+Self-similarity: 0.1840922911489239
+
+Top 8 rated words: [body (10), pattern (6), containment (11), time (10), appears (10), subject (7), approximately (9), safe (7)]
+[scp-999.txt, scp-647.txt, scp-447.txt, scp-481.txt, scp-450.txt, scp-334.txt, scp-737.txt, scp-847.txt, scp-805.txt, scp-530.txt, scp-731.txt]
+Size: 11
+Self-similarity: 0.19486542065954368
+
+Top 8 rated words: [doll (3), show (7), sense (4), layer (3), separate (6), begin (5), approximately (7), subject (7)]
+[scp-764.txt, scp-284.txt, scp-921.txt, scp-747.txt, scp-670.txt, scp-641.txt, scp-979.txt, scp-707.txt]
+Size: 8
+Self-similarity: 0.2306280169324785
+
+Top 8 rated words: [box (14), lid (6), subject (9), testing (11), object (14), pieces (5), open (10), personnel (13)]
+[scp-175.txt, scp-465.txt, scp-318.txt, scp-502.txt, scp-446.txt, scp-226.txt, scp-377.txt, scp-309.txt, scp-458.txt, scp-066.txt, scp-698.txt, scp-448.txt, scp-551.txt, scp-902.txt]
+Size: 14
+Self-similarity: 0.1988683702155413
+
+Top 8 rated words: [zone (16), team (13), area (14), red (8), object (16), foundation (14), personnel (15), radius (9)]
+[scp-741.txt, scp-526.txt, scp-793.txt, scp-967.txt, scp-065.txt, scp-234.txt, scp-487.txt, scp-233.txt, scp-514.txt, scp-794.txt, scp-314.txt, scp-895.txt, scp-934.txt, scp-820.txt, scp-118.txt, scp-823.txt]
+Size: 16
+Self-similarity: 0.20613063460685888
+
+Top 8 rated words: [door (21), room (22), personnel (22), containment (23), security (20), enter (18), research (19), camera (12)]
+[scp-717.txt, scp-739.txt, scp-384.txt, scp-076.txt, scp-461.txt, scp-094.txt, scp-303.txt, scp-961.txt, scp-479.txt, scp-004.txt, scp-522.txt, scp-728.txt, scp-167.txt, scp-055.txt, scp-329.txt, scp-083.txt, scp-977.txt, scp-855.txt, scp-509.txt, scp-970.txt, scp-557.txt, scp-873.txt, scp-602.txt]
+Size: 23
+Self-similarity: 0.19467379623404293
+
+
+Weighted average self-similarity: 0.19866678688543601
+
+
+32:
+
+Top 8 rated words: [plant (22), growth (18), grow (21), containment (28), seeds (13), foundation (27), instances (15), area (23)]
+[scp-504.txt, scp-754.txt, scp-124.txt, scp-107.txt, scp-344.txt, scp-197.txt, scp-540.txt, scp-003.txt, scp-780.txt, scp-407.txt, scp-840.txt, scp-836.txt, scp-015.txt, scp-322.txt, scp-135.txt, scp-843.txt, scp-355.txt, scp-386.txt, scp-199.txt, scp-770.txt, scp-506.txt, scp-697.txt, scp-621.txt, scp-891.txt, scp-307.txt, scp-060.txt, scp-615.txt, scp-824.txt]
+Size: 28
+Self-similarity: 0.16110152083476095
+
+Top 8 rated words: [testing (41), dr (34), subject (33), object (41), personnel (35), research (31), effect (33), item (41)]
+[scp-117.txt, scp-738.txt, scp-170.txt, scp-997.txt, scp-025.txt, scp-923.txt, scp-512.txt, scp-445.txt, scp-399.txt, scp-093.txt, scp-765.txt, scp-536.txt, scp-983.txt, scp-649.txt, scp-362.txt, scp-712.txt, scp-874.txt, scp-403.txt, scp-459.txt, scp-317.txt, scp-619.txt, scp-503.txt, scp-559.txt, scp-187.txt, scp-539.txt, scp-334.txt, scp-311.txt, scp-914.txt, scp-248.txt, scp-558.txt, scp-996.txt, scp-216.txt, scp-394.txt, scp-145.txt, scp-509.txt, scp-310.txt, scp-331.txt, scp-494.txt, scp-834.txt, scp-564.txt, scp-865.txt]
+Size: 41
+Self-similarity: 0.1438603878239981
+
+Top 8 rated words: [foundation (27), personnel (24), location (24), document (22), event (18), individuals (16), containment (29), time (27)]
+[scp-453.txt, scp-554.txt, scp-476.txt, scp-181.txt, scp-664.txt, scp-089.txt, scp-595.txt, scp-869.txt, scp-287.txt, scp-222.txt, scp-473.txt, scp-038.txt, scp-411.txt, scp-120.txt, scp-396.txt, scp-521.txt, scp-088.txt, scp-186.txt, scp-090.txt, scp-360.txt, scp-796.txt, scp-231.txt, scp-991.txt, scp-130.txt, scp-724.txt, scp-349.txt, scp-922.txt, scp-562.txt, scp-431.txt]
+Size: 29
+Self-similarity: 0.1380761206617299
+
+Top 8 rated words: [specimens (40), containment (40), special (40), human (34), organs (23), object (40), observed (24), animals (22)]
+[scp-831.txt, scp-822.txt, scp-295.txt, scp-984.txt, scp-954.txt, scp-640.txt, scp-803.txt, scp-939.txt, scp-845.txt, scp-655.txt, scp-875.txt, scp-327.txt, scp-019.txt, scp-153.txt, scp-857.txt, scp-745.txt, scp-452.txt, scp-966.txt, scp-863.txt, scp-581.txt, scp-625.txt, scp-252.txt, scp-955.txt, scp-098.txt, scp-877.txt, scp-588.txt, scp-659.txt, scp-879.txt, scp-925.txt, scp-848.txt, scp-111.txt, scp-883.txt, scp-799.txt, scp-779.txt, scp-489.txt, scp-218.txt, scp-760.txt, scp-994.txt, scp-257.txt, scp-906.txt]
+Size: 40
+Self-similarity: 0.16382210238659972
+
+Top 8 rated words: [mr (23), dr (19), containment (24), time (18), mister (9), foundation (20), effect (16), interview (14)]
+[scp-127.txt, scp-629.txt, scp-917.txt, scp-576.txt, scp-426.txt, scp-644.txt, scp-662.txt, scp-706.txt, scp-905.txt, scp-040.txt, scp-909.txt, scp-400.txt, scp-960.txt, scp-833.txt, scp-920.txt, scp-425.txt, scp-285.txt, scp-572.txt, scp-913.txt, scp-323.txt, scp-527.txt, scp-870.txt, scp-773.txt, scp-828.txt]
+Size: 24
+Self-similarity: 0.19118758813988782
+
+Top 8 rated words: [subject (80), testing (62), effect (66), time (63), containment (80), object (80), personnel (64), experiment (48)]
+[scp-547.txt, scp-290.txt, scp-678.txt, scp-829.txt, scp-849.txt, scp-330.txt, scp-739.txt, scp-508.txt, scp-375.txt, scp-207.txt, scp-727.txt, scp-301.txt, scp-944.txt, scp-626.txt, scp-358.txt, scp-308.txt, scp-156.txt, scp-438.txt, scp-078.txt, scp-348.txt, scp-888.txt, scp-247.txt, scp-108.txt, scp-031.txt, scp-393.txt, scp-482.txt, scp-774.txt, scp-131.txt, scp-203.txt, scp-209.txt, scp-809.txt, scp-652.txt, scp-825.txt, scp-832.txt, scp-272.txt, scp-483.txt, scp-104.txt, scp-596.txt, scp-721.txt, scp-546.txt, scp-901.txt, scp-292.txt, scp-690.txt, scp-769.txt, scp-480.txt, scp-263.txt, scp-620.txt, scp-350.txt, scp-412.txt, scp-497.txt, scp-959.txt, scp-728.txt, scp-475.txt, scp-174.txt, scp-305.txt, scp-194.txt, scp-282.txt, scp-239.txt, scp-801.txt, scp-702.txt, scp-723.txt, scp-434.txt, scp-623.txt, scp-336.txt, scp-859.txt, scp-463.txt, scp-007.txt, scp-146.txt, scp-221.txt, scp-916.txt, scp-732.txt, scp-819.txt, scp-215.txt, scp-241.txt, scp-302.txt, scp-570.txt, scp-911.txt, scp-067.txt, scp-454.txt, scp-969.txt]
+Size: 80
+Self-similarity: 0.1647213263383843
+
+Top 8 rated words: [prey (21), containment (29), organs (19), special (29), area (19), feeding (16), large (21), victims (11)]
+[scp-932.txt, scp-816.txt, scp-477.txt, scp-844.txt, scp-236.txt, scp-157.txt, scp-850.txt, scp-672.txt, scp-183.txt, scp-160.txt, scp-469.txt, scp-631.txt, scp-968.txt, scp-367.txt, scp-359.txt, scp-771.txt, scp-749.txt, scp-851.txt, scp-743.txt, scp-250.txt, scp-165.txt, scp-267.txt, scp-688.txt, scp-929.txt, scp-995.txt, scp-575.txt, scp-885.txt, scp-548.txt, scp-312.txt]
+Size: 29
+Self-similarity: 0.14377034614057477
+
+Top 8 rated words: [instances (44), containment (44), foundation (35), research (26), individuals (28), personnel (30), attempts (31), anomalous (25)]
+[scp-132.txt, scp-013.txt, scp-133.txt, scp-493.txt, scp-566.txt, scp-526.txt, scp-437.txt, scp-967.txt, scp-072.txt, scp-864.txt, scp-974.txt, scp-635.txt, scp-949.txt, scp-193.txt, scp-121.txt, scp-022.txt, scp-643.txt, scp-092.txt, scp-871.txt, scp-785.txt, scp-122.txt, scp-862.txt, scp-449.txt, scp-853.txt, scp-613.txt, scp-881.txt, scp-210.txt, scp-632.txt, scp-569.txt, scp-039.txt, scp-715.txt, scp-975.txt, scp-693.txt, scp-839.txt, scp-903.txt, scp-784.txt, scp-792.txt, scp-406.txt, scp-563.txt, scp-703.txt, scp-755.txt, scp-675.txt, scp-918.txt, scp-237.txt]
+Size: 44
+Self-similarity: 0.160887984283997
+
+Top 8 rated words: [subject (24), exposure (18), show (23), personnel (27), effect (22), containment (27), photo (5), wear (14)]
+[scp-764.txt, scp-195.txt, scp-818.txt, scp-710.txt, scp-513.txt, scp-288.txt, scp-223.txt, scp-472.txt, scp-316.txt, scp-733.txt, scp-284.txt, scp-747.txt, scp-978.txt, scp-441.txt, scp-404.txt, scp-641.txt, scp-979.txt, scp-980.txt, scp-847.txt, scp-325.txt, scp-051.txt, scp-714.txt, scp-692.txt, scp-230.txt, scp-395.txt, scp-707.txt, scp-113.txt]
+Size: 27
+Self-similarity: 0.1466533738642514
+
+Top 8 rated words: [device (23), effect (19), containment (26), object (25), time (18), power (12), control (9), mechanical (15)]
+[scp-385.txt, scp-768.txt, scp-495.txt, scp-119.txt, scp-142.txt, scp-297.txt, scp-005.txt, scp-815.txt, scp-278.txt, scp-158.txt, scp-033.txt, scp-762.txt, scp-379.txt, scp-804.txt, scp-281.txt, scp-429.txt, scp-498.txt, scp-535.txt, scp-520.txt, scp-061.txt, scp-155.txt, scp-915.txt, scp-390.txt, scp-159.txt, scp-219.txt, scp-328.txt]
+Size: 26
+Self-similarity: 0.1447489283525741
+
+Top 8 rated words: [status (11), object (19), figure (6), containment (19), item (19), meters (10), reported (8), attempts (10)]
+[scp-766.txt, scp-531.txt, scp-516.txt, scp-586.txt, scp-654.txt, scp-680.txt, scp-050.txt, scp-264.txt, scp-381.txt, scp-496.txt, scp-926.txt, scp-011.txt, scp-988.txt, scp-296.txt, scp-389.txt, scp-699.txt, scp-650.txt, scp-578.txt, scp-068.txt]
+Size: 19
+Self-similarity: 0.15125023025113582
+
+Top 8 rated words: [trees (13), samples (12), produced (17), human (18), fruit (7), special (22), rate (13), testing (20)]
+[scp-886.txt, scp-936.txt, scp-647.txt, scp-889.txt, scp-726.txt, scp-417.txt, scp-410.txt, scp-299.txt, scp-324.txt, scp-628.txt, scp-594.txt, scp-757.txt, scp-827.txt, scp-667.txt, scp-143.txt, scp-561.txt, scp-759.txt, scp-376.txt, scp-660.txt, scp-731.txt, scp-937.txt, scp-401.txt]
+Size: 22
+Self-similarity: 0.15749408786331764
+
+Top 8 rated words: [dr (45), interview (34), subject (33), containment (45), time (43), foundation (41), work (28), question (29)]
+[scp-574.txt, scp-079.txt, scp-645.txt, scp-735.txt, scp-137.txt, scp-758.txt, scp-414.txt, scp-963.txt, scp-990.txt, scp-049.txt, scp-484.txt, scp-887.txt, scp-948.txt, scp-112.txt, scp-397.txt, scp-457.txt, scp-838.txt, scp-086.txt, scp-776.txt, scp-057.txt, scp-947.txt, scp-748.txt, scp-670.txt, scp-150.txt, scp-992.txt, scp-846.txt, scp-105.txt, scp-943.txt, scp-374.txt, scp-096.txt, scp-639.txt, scp-893.txt, scp-606.txt, scp-691.txt, scp-408.txt, scp-544.txt, scp-254.txt, scp-744.txt, scp-343.txt, scp-577.txt, scp-746.txt, scp-666.txt, scp-232.txt, scp-168.txt, scp-032.txt]
+Size: 45
+Self-similarity: 0.1537671348455028
+
+Top 8 rated words: [play (25), game (15), recorded (19), testing (19), music (10), enter (16), containment (25), player (13)]
+[scp-656.txt, scp-043.txt, scp-537.txt, scp-935.txt, scp-624.txt, scp-958.txt, scp-220.txt, scp-687.txt, scp-573.txt, scp-928.txt, scp-951.txt, scp-821.txt, scp-024.txt, scp-177.txt, scp-591.txt, scp-701.txt, scp-373.txt, scp-720.txt, scp-332.txt, scp-315.txt, scp-286.txt, scp-814.txt, scp-245.txt, scp-190.txt, scp-235.txt]
+Size: 25
+Self-similarity: 0.15376974668035379
+
+Top 8 rated words: [mass (12), sphere (7), containment (17), object (17), increase (11), rate (9), approximately (10), observed (11)]
+[scp-788.txt, scp-585.txt, scp-044.txt, scp-391.txt, scp-260.txt, scp-320.txt, scp-345.txt, scp-627.txt, scp-533.txt, scp-555.txt, scp-737.txt, scp-123.txt, scp-424.txt, scp-421.txt, scp-148.txt, scp-357.txt, scp-709.txt]
+Size: 17
+Self-similarity: 0.1517424686768979
+
+Top 8 rated words: [water (26), testing (21), containment (28), temperature (13), personnel (20), object (28), time (21), item (28)]
+[scp-365.txt, scp-676.txt, scp-549.txt, scp-630.txt, scp-109.txt, scp-663.txt, scp-812.txt, scp-811.txt, scp-856.txt, scp-622.txt, scp-989.txt, scp-075.txt, scp-777.txt, scp-009.txt, scp-729.txt, scp-054.txt, scp-924.txt, scp-499.txt, scp-402.txt, scp-791.txt, scp-042.txt, scp-432.txt, scp-006.txt, scp-440.txt, scp-244.txt, scp-242.txt, scp-045.txt, scp-642.txt]
+Size: 28
+Self-similarity: 0.1635559617286834
+
+Top 8 rated words: [data (14), computer (11), file (11), code (7), foundation (15), containment (17), list (8), redacted (9)]
+[scp-713.txt, scp-603.txt, scp-633.txt, scp-866.txt, scp-892.txt, scp-191.txt, scp-062.txt, scp-711.txt, scp-380.txt, scp-807.txt, scp-971.txt, scp-976.txt, scp-614.txt, scp-001.txt, scp-560.txt, scp-256.txt, scp-304.txt, scp-335.txt]
+Size: 18
+Self-similarity: 0.1521971645296717
+
+Top 8 rated words: [data (30), expunged (28), exploration (18), team (19), door (20), containment (34), foundation (28), document (22)]
+[scp-783.txt, scp-860.txt, scp-648.txt, scp-982.txt, scp-076.txt, scp-835.txt, scp-684.txt, scp-036.txt, scp-363.txt, scp-087.txt, scp-110.txt, scp-102.txt, scp-211.txt, scp-184.txt, scp-026.txt, scp-900.txt, scp-616.txt, scp-998.txt, scp-636.txt, scp-413.txt, scp-518.txt, scp-238.txt, scp-597.txt, scp-579.txt, scp-200.txt, scp-083.txt, scp-895.txt, scp-752.txt, scp-455.txt, scp-934.txt, scp-249.txt, scp-580.txt, scp-602.txt, scp-716.txt]
+Size: 34
+Self-similarity: 0.15131619828851434
+
+Top 8 rated words: [broadcast (8), film (5), pills (3), television (8), character (6), recorded (14), scene (7), appears (13)]
+[scp-674.txt, scp-338.txt, scp-474.txt, scp-543.txt, scp-719.txt, scp-246.txt, scp-461.txt, scp-300.txt, scp-981.txt, scp-878.txt, scp-041.txt, scp-147.txt, scp-500.txt, scp-806.txt, scp-876.txt, scp-993.txt]
+Size: 16
+Self-similarity: 0.16803156636250638
+
+Top 8 rated words: [agent (37), dr (25), personnel (32), containment (37), subject (29), foundation (33), reported (30), attempts (26)]
+[scp-337.txt, scp-018.txt, scp-511.txt, scp-952.txt, scp-028.txt, scp-682.txt, scp-798.txt, scp-599.txt, scp-908.txt, scp-919.txt, scp-388.txt, scp-342.txt, scp-398.txt, scp-224.txt, scp-182.txt, scp-058.txt, scp-491.txt, scp-294.txt, scp-451.txt, scp-273.txt, scp-653.txt, scp-607.txt, scp-052.txt, scp-354.txt, scp-722.txt, scp-897.txt, scp-740.txt, scp-507.txt, scp-884.txt, scp-466.txt, scp-567.txt, scp-279.txt, scp-933.txt, scp-283.txt, scp-069.txt, scp-668.txt, scp-268.txt]
+Size: 37
+Self-similarity: 0.15934433477025492
+
+Top 8 rated words: [area (27), zone (15), object (35), item (35), containment (35), foundation (29), personnel (30), redacted (20)]
+[scp-178.txt, scp-741.txt, scp-270.txt, scp-793.txt, scp-608.txt, scp-065.txt, scp-048.txt, scp-259.txt, scp-234.txt, scp-985.txt, scp-487.txt, scp-725.txt, scp-046.txt, scp-517.txt, scp-233.txt, scp-605.txt, scp-243.txt, scp-938.txt, scp-587.txt, scp-842.txt, scp-468.txt, scp-514.txt, scp-436.txt, scp-880.txt, scp-794.txt, scp-314.txt, scp-820.txt, scp-872.txt, scp-964.txt, scp-118.txt, scp-277.txt, scp-823.txt, scp-795.txt, scp-188.txt, scp-705.txt]
+Size: 35
+Self-similarity: 0.1440028173123085
+
+Top 8 rated words: [containment (48), human (40), cell (27), staff (31), time (39), personnel (39), research (33), foundation (41)]
+[scp-204.txt, scp-023.txt, scp-208.txt, scp-442.txt, scp-661.txt, scp-999.txt, scp-134.txt, scp-161.txt, scp-368.txt, scp-810.txt, scp-071.txt, scp-617.txt, scp-202.txt, scp-600.txt, scp-896.txt, scp-447.txt, scp-501.txt, scp-056.txt, scp-014.txt, scp-492.txt, scp-126.txt, scp-550.txt, scp-545.txt, scp-214.txt, scp-428.txt, scp-073.txt, scp-030.txt, scp-114.txt, scp-166.txt, scp-213.txt, scp-321.txt, scp-035.txt, scp-103.txt, scp-116.txt, scp-894.txt, scp-953.txt, scp-352.txt, scp-280.txt, scp-347.txt, scp-657.txt, scp-601.txt, scp-552.txt, scp-266.txt, scp-106.txt, scp-542.txt, scp-196.txt, scp-430.txt, scp-029.txt]
+Size: 48
+Self-similarity: 0.14573861902337323
+
+Top 8 rated words: [object (25), orbit (17), earth (20), planet (12), surface (15), move (15), foundation (22), containment (25)]
+[scp-907.txt, scp-095.txt, scp-064.txt, scp-471.txt, scp-515.txt, scp-169.txt, scp-225.txt, scp-240.txt, scp-364.txt, scp-677.txt, scp-313.txt, scp-319.txt, scp-144.txt, scp-037.txt, scp-669.txt, scp-125.txt, scp-756.txt, scp-685.txt, scp-488.txt, scp-227.txt, scp-179.txt, scp-858.txt, scp-341.txt, scp-736.txt, scp-435.txt]
+Size: 25
+Self-similarity: 0.1443897534171723
+
+Top 8 rated words: [vehicle (17), area (19), drive (13), object (26), constructed (11), time (22), meters (12), location (19)]
+[scp-097.txt, scp-634.txt, scp-962.txt, scp-708.txt, scp-704.txt, scp-084.txt, scp-289.txt, scp-387.txt, scp-930.txt, scp-100.txt, scp-115.txt, scp-369.txt, scp-416.txt, scp-761.txt, scp-462.txt, scp-852.txt, scp-802.txt, scp-694.txt, scp-778.txt, scp-854.txt, scp-808.txt, scp-973.txt, scp-265.txt, scp-490.txt, scp-882.txt, scp-201.txt]
+Size: 26
+Self-similarity: 0.1441179945034922
+
+Top 8 rated words: [room (41), containment (43), personnel (41), object (43), observed (25), time (39), enter (30), door (24)]
+[scp-717.txt, scp-080.txt, scp-987.txt, scp-002.txt, scp-251.txt, scp-372.txt, scp-470.txt, scp-017.txt, scp-598.txt, scp-136.txt, scp-956.txt, scp-384.txt, scp-339.txt, scp-094.txt, scp-303.txt, scp-961.txt, scp-479.txt, scp-921.txt, scp-826.txt, scp-450.txt, scp-700.txt, scp-671.txt, scp-128.txt, scp-522.txt, scp-198.txt, scp-419.txt, scp-205.txt, scp-167.txt, scp-070.txt, scp-055.txt, scp-523.txt, scp-329.txt, scp-192.txt, scp-977.txt, scp-855.txt, scp-271.txt, scp-970.txt, scp-176.txt, scp-557.txt, scp-873.txt, scp-681.txt, scp-689.txt, scp-101.txt]
+Size: 43
+Self-similarity: 0.1504018652333091
+
+Top 8 rated words: [manifestation (15), read (11), time (27), appears (24), subject (18), enter (16), event (17), personnel (24)]
+[scp-423.txt, scp-609.txt, scp-781.txt, scp-582.txt, scp-861.txt, scp-460.txt, scp-228.txt, scp-140.txt, scp-333.txt, scp-789.txt, scp-351.txt, scp-910.txt, scp-986.txt, scp-592.txt, scp-361.txt, scp-141.txt, scp-965.txt, scp-583.txt, scp-696.txt, scp-382.txt, scp-946.txt, scp-899.txt, scp-152.txt, scp-957.txt, scp-077.txt, scp-433.txt, scp-276.txt]
+Size: 27
+Self-similarity: 0.14755451701220454
+
+Top 8 rated words: [paint (12), image (12), containment (21), view (7), time (17), effect (14), item (21), object (21)]
+[scp-091.txt, scp-173.txt, scp-085.txt, scp-750.txt, scp-467.txt, scp-206.txt, scp-356.txt, scp-519.txt, scp-443.txt, scp-099.txt, scp-528.txt, scp-163.txt, scp-151.txt, scp-258.txt, scp-767.txt, scp-800.txt, scp-556.txt, scp-753.txt, scp-274.txt, scp-931.txt, scp-787.txt]
+Size: 21
+Self-similarity: 0.1527295963407934
+
+Top 8 rated words: [head (8), special (15), large (13), small (10), animals (10), body (10), human (10), organs (7)]
+[scp-422.txt, scp-529.txt, scp-261.txt, scp-565.txt, scp-604.txt, scp-464.txt, scp-950.txt, scp-392.txt, scp-786.txt, scp-346.txt, scp-646.txt, scp-524.txt, scp-139.txt, scp-530.txt, scp-291.txt]
+Size: 15
+Self-similarity: 0.1467687162625348
+
+Top 8 rated words: [infection (40), subject (32), containment (43), stage (23), human (35), affected (26), symptoms (26), treated (28)]
+[scp-673.txt, scp-941.txt, scp-008.txt, scp-306.txt, scp-898.txt, scp-730.txt, scp-782.txt, scp-940.txt, scp-904.txt, scp-505.txt, scp-532.txt, scp-742.txt, scp-255.txt, scp-679.txt, scp-217.txt, scp-868.txt, scp-584.txt, scp-593.txt, scp-734.txt, scp-478.txt, scp-610.txt, scp-427.txt, scp-972.txt, scp-340.txt, scp-370.txt, scp-589.txt, scp-405.txt, scp-020.txt, scp-420.txt, scp-805.txt, scp-016.txt, scp-047.txt, scp-571.txt, scp-081.txt, scp-651.txt, scp-059.txt, scp-444.txt, scp-353.txt, scp-149.txt, scp-253.txt, scp-129.txt, scp-686.txt, scp-618.txt]
+Size: 43
+Self-similarity: 0.17646145322492243
+
+Top 8 rated words: [box (22), testing (18), object (22), subject (14), pieces (8), lid (7), personnel (19), open (12)]
+[scp-175.txt, scp-465.txt, scp-318.txt, scp-502.txt, scp-446.txt, scp-945.txt, scp-012.txt, scp-185.txt, scp-485.txt, scp-226.txt, scp-377.txt, scp-309.txt, scp-004.txt, scp-458.txt, scp-066.txt, scp-010.txt, scp-698.txt, scp-448.txt, scp-551.txt, scp-172.txt, scp-902.txt, scp-837.txt]
+Size: 22
+Self-similarity: 0.15380307299940185
+
+Top 8 rated words: [subject (28), item (29), armed (15), object (30), attempts (23), personnel (25), removed (19), containment (30)]
+[scp-665.txt, scp-912.txt, scp-718.txt, scp-409.txt, scp-082.txt, scp-034.txt, scp-830.txt, scp-162.txt, scp-568.txt, scp-138.txt, scp-683.txt, scp-293.txt, scp-590.txt, scp-418.txt, scp-890.txt, scp-942.txt, scp-326.txt, scp-486.txt, scp-481.txt, scp-063.txt, scp-053.txt, scp-154.txt, scp-638.txt, scp-298.txt, scp-797.txt, scp-841.txt, scp-262.txt, scp-275.txt, scp-415.txt, scp-212.txt]
+Size: 30
+Self-similarity: 0.14516839482610475
+
+Top 8 rated words: [host (28), containment (35), subject (24), infestation (10), organs (20), body (26), skin (19), personnel (29)]
+[scp-790.txt, scp-637.txt, scp-510.txt, scp-751.txt, scp-027.txt, scp-180.txt, scp-171.txt, scp-366.txt, scp-927.txt, scp-553.txt, scp-658.txt, scp-775.txt, scp-371.txt, scp-763.txt, scp-695.txt, scp-541.txt, scp-383.txt, scp-525.txt, scp-439.txt, scp-534.txt, scp-164.txt, scp-813.txt, scp-074.txt, scp-189.txt, scp-269.txt, scp-772.txt, scp-538.txt, scp-456.txt, scp-867.txt, scp-612.txt, scp-021.txt, scp-817.txt, scp-229.txt, scp-378.txt, scp-611.txt]
+Size: 35
+Self-similarity: 0.1717465424454045
+
+
+Weighted average self-similarity: 0.15491514526355052
+
+
+24:
+
+Top 8 rated words: [host (20), blood (34), human (51), organs (38), containment (56), tissue (33), subject (41), body (43)]
+[scp-673.txt, scp-718.txt, scp-008.txt, scp-422.txt, scp-790.txt, scp-034.txt, scp-510.txt, scp-751.txt, scp-647.txt, scp-171.txt, scp-366.txt, scp-927.txt, scp-726.txt, scp-418.txt, scp-604.txt, scp-890.txt, scp-658.txt, scp-811.txt, scp-775.txt, scp-763.txt, scp-950.txt, scp-695.txt, scp-441.txt, scp-541.txt, scp-525.txt, scp-734.txt, scp-771.txt, scp-427.txt, scp-550.txt, scp-439.txt, scp-534.txt, scp-827.txt, scp-298.txt, scp-797.txt, scp-035.txt, scp-813.txt, scp-103.txt, scp-189.txt, scp-269.txt, scp-772.txt, scp-352.txt, scp-280.txt, scp-692.txt, scp-456.txt, scp-395.txt, scp-415.txt, scp-578.txt, scp-291.txt, scp-660.txt, scp-021.txt, scp-817.txt, scp-229.txt, scp-212.txt, scp-401.txt, scp-378.txt, scp-618.txt]
+Size: 56
+Self-similarity: 0.1438847228065187
+
+Top 8 rated words: [data (41), expunged (37), foundation (35), containment (41), redacted (20), object (41), time (34), recorded (26)]
+[scp-117.txt, scp-713.txt, scp-338.txt, scp-741.txt, scp-270.txt, scp-866.txt, scp-195.txt, scp-892.txt, scp-549.txt, scp-586.txt, scp-835.txt, scp-565.txt, scp-191.txt, scp-062.txt, scp-711.txt, scp-048.txt, scp-363.txt, scp-102.txt, scp-725.txt, scp-264.txt, scp-467.txt, scp-381.txt, scp-900.txt, scp-233.txt, scp-616.txt, scp-998.txt, scp-728.txt, scp-597.txt, scp-579.txt, scp-200.txt, scp-976.txt, scp-145.txt, scp-567.txt, scp-560.txt, scp-556.txt, scp-349.txt, scp-891.txt, scp-279.txt, scp-820.txt, scp-732.txt, scp-612.txt]
+Size: 41
+Self-similarity: 0.13698435144421856
+
+Top 8 rated words: [prey (25), victims (16), containment (35), large (28), special (35), colony (11), feeding (19), enter (24)]
+[scp-932.txt, scp-477.txt, scp-999.txt, scp-844.txt, scp-956.txt, scp-640.txt, scp-157.txt, scp-654.txt, scp-850.txt, scp-672.txt, scp-160.txt, scp-469.txt, scp-631.txt, scp-968.txt, scp-359.txt, scp-966.txt, scp-671.txt, scp-749.txt, scp-851.txt, scp-924.txt, scp-098.txt, scp-883.txt, scp-346.txt, scp-250.txt, scp-165.txt, scp-267.txt, scp-688.txt, scp-779.txt, scp-995.txt, scp-218.txt, scp-885.txt, scp-274.txt, scp-906.txt, scp-548.txt, scp-312.txt]
+Size: 35
+Self-similarity: 0.1391837228185245
+
+Top 8 rated words: [subject (103), testing (87), effect (84), personnel (88), time (83), object (103), containment (103), minutes (66)]
+[scp-547.txt, scp-290.txt, scp-829.txt, scp-330.txt, scp-739.txt, scp-997.txt, scp-508.txt, scp-504.txt, scp-025.txt, scp-207.txt, scp-028.txt, scp-637.txt, scp-818.txt, scp-710.txt, scp-923.txt, scp-727.txt, scp-301.txt, scp-944.txt, scp-626.txt, scp-358.txt, scp-798.txt, scp-093.txt, scp-027.txt, scp-472.txt, scp-308.txt, scp-138.txt, scp-156.txt, scp-983.txt, scp-180.txt, scp-078.txt, scp-348.txt, scp-362.txt, scp-712.txt, scp-919.txt, scp-247.txt, scp-284.txt, scp-318.txt, scp-108.txt, scp-393.txt, scp-482.txt, scp-774.txt, scp-502.txt, scp-203.txt, scp-503.txt, scp-209.txt, scp-809.txt, scp-825.txt, scp-832.txt, scp-272.txt, scp-104.txt, scp-596.txt, scp-501.txt, scp-486.txt, scp-721.txt, scp-407.txt, scp-546.txt, scp-539.txt, scp-901.txt, scp-292.txt, scp-690.txt, scp-309.txt, scp-480.txt, scp-263.txt, scp-620.txt, scp-334.txt, scp-412.txt, scp-311.txt, scp-497.txt, scp-959.txt, scp-914.txt, scp-475.txt, scp-174.txt, scp-305.txt, scp-194.txt, scp-558.txt, scp-282.txt, scp-841.txt, scp-262.txt, scp-801.txt, scp-702.txt, scp-723.txt, scp-434.txt, scp-623.txt, scp-336.txt, scp-859.txt, scp-325.txt, scp-698.txt, scp-463.txt, scp-007.txt, scp-146.txt, scp-221.txt, scp-916.txt, scp-819.txt, scp-707.txt, scp-215.txt, scp-241.txt, scp-302.txt, scp-570.txt, scp-911.txt, scp-067.txt, scp-268.txt, scp-113.txt, scp-454.txt]
+Size: 103
+Self-similarity: 0.15539098614179764
+
+Top 8 rated words: [mr (24), dr (23), containment (29), fire (11), time (21), foundation (24), armed (13), effect (20)]
+[scp-127.txt, scp-674.txt, scp-912.txt, scp-629.txt, scp-917.txt, scp-576.txt, scp-516.txt, scp-426.txt, scp-644.txt, scp-662.txt, scp-706.txt, scp-905.txt, scp-909.txt, scp-400.txt, scp-960.txt, scp-154.txt, scp-186.txt, scp-607.txt, scp-920.txt, scp-425.txt, scp-285.txt, scp-572.txt, scp-913.txt, scp-323.txt, scp-800.txt, scp-527.txt, scp-870.txt, scp-773.txt, scp-865.txt]
+Size: 29
+Self-similarity: 0.16315845662493997
+
+Top 8 rated words: [room (45), door (38), personnel (51), containment (54), observed (34), object (54), open (35), foundation (44)]
+[scp-717.txt, scp-080.txt, scp-783.txt, scp-860.txt, scp-372.txt, scp-470.txt, scp-017.txt, scp-648.txt, scp-598.txt, scp-982.txt, scp-384.txt, scp-339.txt, scp-461.txt, scp-094.txt, scp-303.txt, scp-961.txt, scp-479.txt, scp-398.txt, scp-981.txt, scp-921.txt, scp-087.txt, scp-826.txt, scp-184.txt, scp-700.txt, scp-128.txt, scp-026.txt, scp-004.txt, scp-636.txt, scp-522.txt, scp-198.txt, scp-205.txt, scp-518.txt, scp-167.txt, scp-070.txt, scp-055.txt, scp-238.txt, scp-523.txt, scp-329.txt, scp-083.txt, scp-977.txt, scp-895.txt, scp-855.txt, scp-216.txt, scp-271.txt, scp-509.txt, scp-455.txt, scp-970.txt, scp-934.txt, scp-176.txt, scp-557.txt, scp-249.txt, scp-873.txt, scp-602.txt, scp-709.txt]
+Size: 54
+Self-similarity: 0.14483141332658475
+
+Top 8 rated words: [containment (57), personnel (51), appears (52), active (36), foundation (47), observed (40), area (37), human (41)]
+[scp-204.txt, scp-453.txt, scp-002.txt, scp-023.txt, scp-208.txt, scp-861.txt, scp-793.txt, scp-236.txt, scp-065.txt, scp-076.txt, scp-084.txt, scp-368.txt, scp-071.txt, scp-617.txt, scp-234.txt, scp-985.txt, scp-487.txt, scp-100.txt, scp-046.txt, scp-003.txt, scp-481.txt, scp-450.txt, scp-628.txt, scp-451.txt, scp-605.txt, scp-214.txt, scp-088.txt, scp-938.txt, scp-587.txt, scp-428.txt, scp-135.txt, scp-468.txt, scp-514.txt, scp-213.txt, scp-722.txt, scp-847.txt, scp-794.txt, scp-802.txt, scp-296.txt, scp-424.txt, scp-699.txt, scp-421.txt, scp-277.txt, scp-601.txt, scp-823.txt, scp-575.txt, scp-069.txt, scp-957.txt, scp-101.txt, scp-188.txt, scp-705.txt, scp-266.txt, scp-731.txt, scp-106.txt, scp-716.txt, scp-430.txt, scp-276.txt]
+Size: 57
+Self-similarity: 0.136299182113347
+
+Top 8 rated words: [instances (53), containment (53), foundation (43), attempts (38), research (29), special (53), personnel (36), anomalous (28)]
+[scp-132.txt, scp-133.txt, scp-566.txt, scp-526.txt, scp-437.txt, scp-967.txt, scp-864.txt, scp-974.txt, scp-635.txt, scp-949.txt, scp-803.txt, scp-193.txt, scp-121.txt, scp-553.txt, scp-022.txt, scp-643.txt, scp-092.txt, scp-871.txt, scp-785.txt, scp-367.txt, scp-540.txt, scp-862.txt, scp-449.txt, scp-853.txt, scp-613.txt, scp-881.txt, scp-210.txt, scp-581.txt, scp-632.txt, scp-843.txt, scp-569.txt, scp-039.txt, scp-757.txt, scp-715.txt, scp-975.txt, scp-074.txt, scp-199.txt, scp-894.txt, scp-693.txt, scp-839.txt, scp-903.txt, scp-784.txt, scp-697.txt, scp-792.txt, scp-806.txt, scp-406.txt, scp-621.txt, scp-563.txt, scp-703.txt, scp-755.txt, scp-675.txt, scp-918.txt, scp-237.txt]
+Size: 53
+Self-similarity: 0.1495922484188595
+
+Top 8 rated words: [view (18), photographs (10), item (24), containment (24), time (22), image (13), subject (17), scene (10)]
+[scp-987.txt, scp-603.txt, scp-251.txt, scp-223.txt, scp-733.txt, scp-300.txt, scp-750.txt, scp-978.txt, scp-807.txt, scp-517.txt, scp-404.txt, scp-521.txt, scp-443.txt, scp-842.txt, scp-419.txt, scp-099.txt, scp-147.txt, scp-151.txt, scp-767.txt, scp-130.txt, scp-753.txt, scp-689.txt, scp-931.txt, scp-993.txt]
+Size: 24
+Self-similarity: 0.13707821877398838
+
+Top 8 rated words: [device (31), effect (25), containment (35), object (35), control (16), computer (12), time (26), foundation (31)]
+[scp-385.txt, scp-768.txt, scp-633.txt, scp-719.txt, scp-119.txt, scp-142.txt, scp-240.txt, scp-297.txt, scp-464.txt, scp-380.txt, scp-185.txt, scp-595.txt, scp-005.txt, scp-115.txt, scp-278.txt, scp-158.txt, scp-033.txt, scp-762.txt, scp-227.txt, scp-379.txt, scp-804.txt, scp-010.txt, scp-281.txt, scp-429.txt, scp-498.txt, scp-535.txt, scp-520.txt, scp-061.txt, scp-155.txt, scp-915.txt, scp-390.txt, scp-118.txt, scp-159.txt, scp-219.txt, scp-328.txt]
+Size: 35
+Self-similarity: 0.136119104899183
+
+Top 8 rated words: [object (39), meters (24), containment (39), approximately (27), item (39), move (26), appears (26), sphere (14)]
+[scp-018.txt, scp-788.txt, scp-064.txt, scp-531.txt, scp-260.txt, scp-515.txt, scp-512.txt, scp-225.txt, scp-320.txt, scp-388.txt, scp-289.txt, scp-345.txt, scp-680.txt, scp-050.txt, scp-677.txt, scp-313.txt, scp-319.txt, scp-627.txt, scp-037.txt, scp-669.txt, scp-685.txt, scp-555.txt, scp-852.txt, scp-488.txt, scp-090.txt, scp-314.txt, scp-786.txt, scp-011.txt, scp-499.txt, scp-123.txt, scp-489.txt, scp-389.txt, scp-964.txt, scp-808.txt, scp-650.txt, scp-283.txt, scp-435.txt, scp-068.txt, scp-882.txt]
+Size: 39
+Self-similarity: 0.1267878856768529
+
+Top 8 rated words: [specimens (42), plant (21), containment (50), organs (29), special (50), area (37), human (32), object (50)]
+[scp-831.txt, scp-822.txt, scp-295.txt, scp-754.txt, scp-124.txt, scp-984.txt, scp-954.txt, scp-197.txt, scp-939.txt, scp-845.txt, scp-417.txt, scp-655.txt, scp-875.txt, scp-327.txt, scp-019.txt, scp-371.txt, scp-153.txt, scp-040.txt, scp-857.txt, scp-780.txt, scp-745.txt, scp-452.txt, scp-299.txt, scp-863.txt, scp-392.txt, scp-322.txt, scp-625.txt, scp-252.txt, scp-355.txt, scp-955.txt, scp-877.txt, scp-588.txt, scp-659.txt, scp-879.txt, scp-925.txt, scp-848.txt, scp-111.txt, scp-799.txt, scp-506.txt, scp-667.txt, scp-143.txt, scp-538.txt, scp-307.txt, scp-376.txt, scp-760.txt, scp-867.txt, scp-994.txt, scp-615.txt, scp-937.txt, scp-824.txt]
+Size: 50
+Self-similarity: 0.1427620307511865
+
+Top 8 rated words: [dr (65), containment (64), personnel (56), interview (43), agent (38), foundation (59), time (57), subject (41)]
+[scp-337.txt, scp-574.txt, scp-079.txt, scp-645.txt, scp-511.txt, scp-137.txt, scp-414.txt, scp-543.txt, scp-963.txt, scp-682.txt, scp-181.txt, scp-990.txt, scp-536.txt, scp-136.txt, scp-049.txt, scp-908.txt, scp-874.txt, scp-948.txt, scp-387.txt, scp-397.txt, scp-457.txt, scp-485.txt, scp-224.txt, scp-838.txt, scp-086.txt, scp-776.txt, scp-057.txt, scp-211.txt, scp-947.txt, scp-187.txt, scp-748.txt, scp-058.txt, scp-670.txt, scp-150.txt, scp-492.txt, scp-992.txt, scp-641.txt, scp-273.txt, scp-413.txt, scp-846.txt, scp-105.txt, scp-354.txt, scp-943.txt, scp-096.txt, scp-639.txt, scp-893.txt, scp-897.txt, scp-606.txt, scp-691.txt, scp-884.txt, scp-466.txt, scp-408.txt, scp-001.txt, scp-254.txt, scp-744.txt, scp-343.txt, scp-577.txt, scp-331.txt, scp-746.txt, scp-666.txt, scp-834.txt, scp-232.txt, scp-564.txt, scp-168.txt, scp-032.txt]
+Size: 65
+Self-similarity: 0.13972542060083482
+
+Top 8 rated words: [request (27), containment (35), research (24), foundation (31), subject (25), denied (11), time (28), personnel (27)]
+[scp-738.txt, scp-493.txt, scp-735.txt, scp-758.txt, scp-661.txt, scp-220.txt, scp-134.txt, scp-317.txt, scp-202.txt, scp-652.txt, scp-085.txt, scp-410.txt, scp-222.txt, scp-038.txt, scp-356.txt, scp-014.txt, scp-294.txt, scp-126.txt, scp-545.txt, scp-519.txt, scp-030.txt, scp-374.txt, scp-166.txt, scp-361.txt, scp-321.txt, scp-500.txt, scp-116.txt, scp-275.txt, scp-347.txt, scp-051.txt, scp-657.txt, scp-172.txt, scp-876.txt, scp-542.txt, scp-029.txt]
+Size: 35
+Self-similarity: 0.12887385638352764
+
+Top 8 rated words: [testing (17), mass (12), item (23), containment (23), object (23), experiment (16), safe (19), rate (12)]
+[scp-170.txt, scp-585.txt, scp-495.txt, scp-044.txt, scp-391.txt, scp-399.txt, scp-608.txt, scp-649.txt, scp-403.txt, scp-459.txt, scp-619.txt, scp-559.txt, scp-075.txt, scp-533.txt, scp-737.txt, scp-248.txt, scp-996.txt, scp-770.txt, scp-394.txt, scp-310.txt, scp-837.txt, scp-148.txt, scp-357.txt]
+Size: 23
+Self-similarity: 0.12932481257047465
+
+Top 8 rated words: [water (32), testing (26), containment (34), personnel (25), item (34), object (34), samples (16), area (21)]
+[scp-365.txt, scp-676.txt, scp-630.txt, scp-107.txt, scp-445.txt, scp-261.txt, scp-109.txt, scp-568.txt, scp-663.txt, scp-812.txt, scp-856.txt, scp-622.txt, scp-989.txt, scp-840.txt, scp-777.txt, scp-496.txt, scp-015.txt, scp-009.txt, scp-729.txt, scp-054.txt, scp-743.txt, scp-402.txt, scp-791.txt, scp-042.txt, scp-432.txt, scp-006.txt, scp-440.txt, scp-244.txt, scp-242.txt, scp-256.txt, scp-045.txt, scp-060.txt, scp-759.txt, scp-642.txt]
+Size: 34
+Self-similarity: 0.14637644807915332
+
+Top 8 rated words: [manifestation (14), image (13), box (14), object (33), open (17), containment (34), appears (26), item (32)]
+[scp-178.txt, scp-766.txt, scp-609.txt, scp-175.txt, scp-781.txt, scp-582.txt, scp-460.txt, scp-344.txt, scp-228.txt, scp-072.txt, scp-465.txt, scp-259.txt, scp-446.txt, scp-945.txt, scp-012.txt, scp-173.txt, scp-815.txt, scp-226.txt, scp-333.txt, scp-789.txt, scp-041.txt, scp-458.txt, scp-528.txt, scp-163.txt, scp-436.txt, scp-965.txt, scp-192.txt, scp-066.txt, scp-382.txt, scp-448.txt, scp-988.txt, scp-551.txt, scp-899.txt, scp-902.txt]
+Size: 34
+Self-similarity: 0.13546228378573094
+
+Top 8 rated words: [subject (45), containment (47), affected (27), personnel (37), effect (35), item (46), object (47), attempts (36)]
+[scp-013.txt, scp-678.txt, scp-849.txt, scp-474.txt, scp-409.txt, scp-082.txt, scp-375.txt, scp-830.txt, scp-288.txt, scp-162.txt, scp-765.txt, scp-438.txt, scp-316.txt, scp-683.txt, scp-246.txt, scp-293.txt, scp-590.txt, scp-161.txt, scp-031.txt, scp-942.txt, scp-131.txt, scp-810.txt, scp-326.txt, scp-600.txt, scp-122.txt, scp-447.txt, scp-056.txt, scp-377.txt, scp-063.txt, scp-053.txt, scp-350.txt, scp-653.txt, scp-638.txt, scp-980.txt, scp-239.txt, scp-258.txt, scp-796.txt, scp-507.txt, scp-953.txt, scp-714.txt, scp-230.txt, scp-933.txt, scp-552.txt, scp-668.txt, scp-196.txt, scp-969.txt, scp-201.txt]
+Size: 47
+Self-similarity: 0.13554381525419207
+
+Top 8 rated words: [play (29), game (16), recorded (21), testing (20), containment (29), music (12), enter (19), foundation (25)]
+[scp-097.txt, scp-656.txt, scp-043.txt, scp-537.txt, scp-764.txt, scp-935.txt, scp-624.txt, scp-958.txt, scp-687.txt, scp-573.txt, scp-878.txt, scp-928.txt, scp-896.txt, scp-951.txt, scp-821.txt, scp-024.txt, scp-177.txt, scp-591.txt, scp-926.txt, scp-701.txt, scp-373.txt, scp-720.txt, scp-332.txt, scp-315.txt, scp-286.txt, scp-814.txt, scp-245.txt, scp-190.txt, scp-235.txt]
+Size: 29
+Self-similarity: 0.14098230122762365
+
+Top 8 rated words: [time (27), agent (18), vehicle (10), drive (11), subject (24), foundation (24), passengers (8), road (9)]
+[scp-634.txt, scp-952.txt, scp-708.txt, scp-442.txt, scp-704.txt, scp-599.txt, scp-887.txt, scp-342.txt, scp-112.txt, scp-182.txt, scp-930.txt, scp-473.txt, scp-369.txt, scp-491.txt, scp-761.txt, scp-052.txt, scp-462.txt, scp-979.txt, scp-114.txt, scp-694.txt, scp-583.txt, scp-740.txt, scp-696.txt, scp-544.txt, scp-973.txt, scp-265.txt, scp-787.txt, scp-490.txt, scp-828.txt]
+Size: 29
+Self-similarity: 0.1352699968464233
+
+Top 8 rated words: [location (21), foundation (26), earth (15), orbit (11), planet (7), research (19), satellite (12), data (17)]
+[scp-907.txt, scp-095.txt, scp-471.txt, scp-476.txt, scp-169.txt, scp-684.txt, scp-036.txt, scp-364.txt, scp-110.txt, scp-869.txt, scp-144.txt, scp-206.txt, scp-120.txt, scp-396.txt, scp-416.txt, scp-756.txt, scp-179.txt, scp-880.txt, scp-778.txt, scp-724.txt, scp-854.txt, scp-858.txt, scp-304.txt, scp-341.txt, scp-736.txt, scp-580.txt]
+Size: 26
+Self-similarity: 0.13017453499660234
+
+Top 8 rated words: [animals (17), special (21), containment (21), item (21), object (21), offspring (7), unknown (11), area (9)]
+[scp-665.txt, scp-886.txt, scp-962.txt, scp-816.txt, scp-529.txt, scp-889.txt, scp-183.txt, scp-594.txt, scp-243.txt, scp-971.txt, scp-646.txt, scp-929.txt, scp-872.txt, scp-524.txt, scp-561.txt, scp-139.txt, scp-681.txt, scp-530.txt, scp-494.txt, scp-795.txt, scp-257.txt]
+Size: 21
+Self-similarity: 0.13458944590943003
+
+Top 8 rated words: [infection (43), containment (49), subject (36), stage (25), human (40), victims (20), treated (33), symptoms (28)]
+[scp-941.txt, scp-306.txt, scp-936.txt, scp-898.txt, scp-730.txt, scp-513.txt, scp-782.txt, scp-940.txt, scp-904.txt, scp-505.txt, scp-532.txt, scp-742.txt, scp-255.txt, scp-679.txt, scp-217.txt, scp-868.txt, scp-584.txt, scp-747.txt, scp-593.txt, scp-383.txt, scp-478.txt, scp-610.txt, scp-972.txt, scp-340.txt, scp-836.txt, scp-125.txt, scp-370.txt, scp-833.txt, scp-589.txt, scp-405.txt, scp-020.txt, scp-420.txt, scp-164.txt, scp-805.txt, scp-386.txt, scp-016.txt, scp-047.txt, scp-571.txt, scp-752.txt, scp-081.txt, scp-651.txt, scp-059.txt, scp-444.txt, scp-353.txt, scp-149.txt, scp-253.txt, scp-129.txt, scp-686.txt, scp-611.txt]
+Size: 49
+Self-similarity: 0.16617160214367682
+
+Top 8 rated words: [memory (17), foundation (30), event (21), information (25), subject (20), time (27), individuals (16), research (22)]
+[scp-423.txt, scp-554.txt, scp-091.txt, scp-484.txt, scp-888.txt, scp-140.txt, scp-664.txt, scp-089.txt, scp-287.txt, scp-483.txt, scp-351.txt, scp-910.txt, scp-411.txt, scp-986.txt, scp-324.txt, scp-769.txt, scp-592.txt, scp-073.txt, scp-141.txt, scp-360.txt, scp-231.txt, scp-991.txt, scp-946.txt, scp-614.txt, scp-152.txt, scp-922.txt, scp-562.txt, scp-077.txt, scp-335.txt, scp-431.txt, scp-433.txt]
+Size: 31
+Self-similarity: 0.12938209908555173
+
+
+Weighted average self-similarity: 0.14114759056363785
+
+
+16:
+
+Top 8 rated words: [containment (88), human (75), personnel (66), appears (74), time (73), subject (59), object (88), body (55)]
+[scp-665.txt, scp-422.txt, scp-023.txt, scp-034.txt, scp-781.txt, scp-818.txt, scp-208.txt, scp-513.txt, scp-830.txt, scp-515.txt, scp-861.txt, scp-798.txt, scp-999.txt, scp-647.txt, scp-956.txt, scp-134.txt, scp-590.txt, scp-418.txt, scp-161.txt, scp-604.txt, scp-890.txt, scp-811.txt, scp-446.txt, scp-071.txt, scp-617.txt, scp-905.txt, scp-326.txt, scp-600.txt, scp-763.txt, scp-410.txt, scp-469.txt, scp-750.txt, scp-447.txt, scp-541.txt, scp-525.txt, scp-481.txt, scp-014.txt, scp-053.txt, scp-126.txt, scp-550.txt, scp-451.txt, scp-273.txt, scp-214.txt, scp-088.txt, scp-428.txt, scp-030.txt, scp-163.txt, scp-737.txt, scp-979.txt, scp-114.txt, scp-166.txt, scp-361.txt, scp-638.txt, scp-213.txt, scp-321.txt, scp-980.txt, scp-298.txt, scp-797.txt, scp-847.txt, scp-035.txt, scp-499.txt, scp-042.txt, scp-103.txt, scp-116.txt, scp-913.txt, scp-953.txt, scp-250.txt, scp-352.txt, scp-280.txt, scp-395.txt, scp-424.txt, scp-172.txt, scp-753.txt, scp-601.txt, scp-415.txt, scp-530.txt, scp-957.txt, scp-760.txt, scp-552.txt, scp-291.txt, scp-705.txt, scp-266.txt, scp-817.txt, scp-106.txt, scp-542.txt, scp-401.txt, scp-430.txt, scp-029.txt]
+Size: 88
+Self-similarity: 0.12857103289620836
+
+Top 8 rated words: [text (20), read (16), book (15), page (16), containment (33), research (23), character (13), foundation (27)]
+[scp-423.txt, scp-095.txt, scp-609.txt, scp-603.txt, scp-582.txt, scp-246.txt, scp-733.txt, scp-140.txt, scp-981.txt, scp-380.txt, scp-085.txt, scp-878.txt, scp-826.txt, scp-351.txt, scp-910.txt, scp-356.txt, scp-986.txt, scp-033.txt, scp-041.txt, scp-519.txt, scp-443.txt, scp-592.txt, scp-141.txt, scp-583.txt, scp-696.txt, scp-051.txt, scp-614.txt, scp-535.txt, scp-152.txt, scp-245.txt, scp-077.txt, scp-931.txt, scp-433.txt]
+Size: 33
+Self-similarity: 0.11577142931444828
+
+Top 8 rated words: [room (69), containment (81), personnel (76), door (42), object (81), observed (52), enter (57), time (72)]
+[scp-178.txt, scp-018.txt, scp-717.txt, scp-080.txt, scp-987.txt, scp-002.txt, scp-932.txt, scp-251.txt, scp-783.txt, scp-860.txt, scp-372.txt, scp-260.txt, scp-470.txt, scp-017.txt, scp-648.txt, scp-598.txt, scp-136.txt, scp-640.txt, scp-982.txt, scp-228.txt, scp-384.txt, scp-076.txt, scp-599.txt, scp-339.txt, scp-461.txt, scp-094.txt, scp-303.txt, scp-961.txt, scp-479.txt, scp-398.txt, scp-875.txt, scp-921.txt, scp-087.txt, scp-173.txt, scp-184.txt, scp-450.txt, scp-700.txt, scp-671.txt, scp-128.txt, scp-026.txt, scp-004.txt, scp-636.txt, scp-522.txt, scp-198.txt, scp-419.txt, scp-205.txt, scp-518.txt, scp-167.txt, scp-070.txt, scp-055.txt, scp-238.txt, scp-722.txt, scp-523.txt, scp-329.txt, scp-083.txt, scp-965.txt, scp-192.txt, scp-977.txt, scp-855.txt, scp-767.txt, scp-271.txt, scp-498.txt, scp-347.txt, scp-946.txt, scp-509.txt, scp-455.txt, scp-970.txt, scp-296.txt, scp-256.txt, scp-176.txt, scp-557.txt, scp-699.txt, scp-249.txt, scp-873.txt, scp-139.txt, scp-681.txt, scp-283.txt, scp-689.txt, scp-602.txt, scp-101.txt, scp-709.txt]
+Size: 81
+Self-similarity: 0.12843312740384702
+
+Top 8 rated words: [data (50), expunged (44), foundation (43), containment (50), redacted (25), unknown (33), time (41), signs (24)]
+[scp-713.txt, scp-338.txt, scp-270.txt, scp-866.txt, scp-892.txt, scp-471.txt, scp-549.txt, scp-719.txt, scp-344.txt, scp-835.txt, scp-565.txt, scp-191.txt, scp-062.txt, scp-711.txt, scp-684.txt, scp-048.txt, scp-317.txt, scp-464.txt, scp-364.txt, scp-089.txt, scp-363.txt, scp-102.txt, scp-725.txt, scp-264.txt, scp-144.txt, scp-381.txt, scp-206.txt, scp-627.txt, scp-900.txt, scp-616.txt, scp-998.txt, scp-728.txt, scp-597.txt, scp-179.txt, scp-147.txt, scp-579.txt, scp-200.txt, scp-976.txt, scp-646.txt, scp-724.txt, scp-567.txt, scp-560.txt, scp-349.txt, scp-891.txt, scp-304.txt, scp-279.txt, scp-732.txt, scp-612.txt, scp-435.txt, scp-328.txt]
+Size: 50
+Self-similarity: 0.12450826765735756
+
+Top 8 rated words: [mr (31), foundation (47), individuals (29), containment (49), dr (33), agent (28), time (40), personnel (33)]
+[scp-127.txt, scp-674.txt, scp-493.txt, scp-768.txt, scp-554.txt, scp-629.txt, scp-195.txt, scp-917.txt, scp-576.txt, scp-426.txt, scp-437.txt, scp-644.txt, scp-662.txt, scp-706.txt, scp-664.txt, scp-945.txt, scp-202.txt, scp-224.txt, scp-776.txt, scp-287.txt, scp-222.txt, scp-909.txt, scp-411.txt, scp-400.txt, scp-324.txt, scp-960.txt, scp-545.txt, scp-653.txt, scp-186.txt, scp-099.txt, scp-607.txt, scp-425.txt, scp-360.txt, scp-285.txt, scp-572.txt, scp-897.txt, scp-740.txt, scp-796.txt, scp-231.txt, scp-991.txt, scp-323.txt, scp-800.txt, scp-527.txt, scp-870.txt, scp-657.txt, scp-773.txt, scp-922.txt, scp-069.txt, scp-828.txt]
+Size: 49
+Self-similarity: 0.12889640452515533
+
+Top 8 rated words: [play (29), game (15), recorded (27), testing (24), photo (6), subject (22), music (12), containment (34)]
+[scp-656.txt, scp-043.txt, scp-537.txt, scp-764.txt, scp-952.txt, scp-504.txt, scp-091.txt, scp-223.txt, scp-935.txt, scp-624.txt, scp-220.txt, scp-687.txt, scp-300.txt, scp-573.txt, scp-928.txt, scp-978.txt, scp-951.txt, scp-821.txt, scp-024.txt, scp-404.txt, scp-177.txt, scp-591.txt, scp-701.txt, scp-373.txt, scp-720.txt, scp-332.txt, scp-066.txt, scp-315.txt, scp-448.txt, scp-286.txt, scp-814.txt, scp-190.txt, scp-235.txt, scp-993.txt]
+Size: 34
+Self-similarity: 0.12342232456426964
+
+Top 8 rated words: [area (55), containment (61), foundation (54), meters (39), object (61), personnel (48), zone (20), appears (49)]
+[scp-453.txt, scp-097.txt, scp-741.txt, scp-962.txt, scp-793.txt, scp-169.txt, scp-236.txt, scp-065.txt, scp-850.txt, scp-084.txt, scp-259.txt, scp-110.txt, scp-234.txt, scp-985.txt, scp-595.txt, scp-487.txt, scp-856.txt, scp-930.txt, scp-046.txt, scp-473.txt, scp-789.txt, scp-359.txt, scp-771.txt, scp-278.txt, scp-517.txt, scp-491.txt, scp-605.txt, scp-416.txt, scp-243.txt, scp-938.txt, scp-587.txt, scp-842.txt, scp-468.txt, scp-514.txt, scp-852.txt, scp-880.txt, scp-794.txt, scp-802.txt, scp-804.txt, scp-895.txt, scp-883.txt, scp-778.txt, scp-520.txt, scp-899.txt, scp-556.txt, scp-934.txt, scp-820.txt, scp-872.txt, scp-118.txt, scp-421.txt, scp-808.txt, scp-277.txt, scp-823.txt, scp-795.txt, scp-188.txt, scp-229.txt, scp-068.txt, scp-716.txt, scp-882.txt, scp-276.txt, scp-201.txt]
+Size: 61
+Self-similarity: 0.12209942192239853
+
+Top 8 rated words: [instances (72), containment (72), foundation (58), human (46), special (72), personnel (50), item (72), time (53)]
+[scp-204.txt, scp-132.txt, scp-788.txt, scp-013.txt, scp-886.txt, scp-133.txt, scp-566.txt, scp-526.txt, scp-984.txt, scp-967.txt, scp-958.txt, scp-072.txt, scp-864.txt, scp-974.txt, scp-635.txt, scp-949.txt, scp-803.txt, scp-193.txt, scp-121.txt, scp-022.txt, scp-643.txt, scp-092.txt, scp-871.txt, scp-747.txt, scp-785.txt, scp-040.txt, scp-631.txt, scp-122.txt, scp-367.txt, scp-540.txt, scp-862.txt, scp-449.txt, scp-853.txt, scp-613.txt, scp-392.txt, scp-881.txt, scp-210.txt, scp-534.txt, scp-581.txt, scp-632.txt, scp-843.txt, scp-569.txt, scp-039.txt, scp-757.txt, scp-715.txt, scp-827.txt, scp-813.txt, scp-975.txt, scp-074.txt, scp-199.txt, scp-336.txt, scp-894.txt, scp-693.txt, scp-839.txt, scp-903.txt, scp-784.txt, scp-697.txt, scp-792.txt, scp-806.txt, scp-406.txt, scp-621.txt, scp-563.txt, scp-524.txt, scp-703.txt, scp-755.txt, scp-675.txt, scp-575.txt, scp-578.txt, scp-918.txt, scp-274.txt, scp-787.txt, scp-237.txt]
+Size: 72
+Self-similarity: 0.1367344659628103
+
+Top 8 rated words: [dr (71), interview (47), containment (70), personnel (60), foundation (62), subject (46), time (63), agent (38)]
+[scp-337.txt, scp-574.txt, scp-079.txt, scp-645.txt, scp-511.txt, scp-735.txt, scp-137.txt, scp-758.txt, scp-414.txt, scp-543.txt, scp-963.txt, scp-682.txt, scp-181.txt, scp-990.txt, scp-536.txt, scp-049.txt, scp-484.txt, scp-908.txt, scp-362.txt, scp-654.txt, scp-874.txt, scp-887.txt, scp-948.txt, scp-112.txt, scp-327.txt, scp-397.txt, scp-457.txt, scp-485.txt, scp-838.txt, scp-086.txt, scp-057.txt, scp-211.txt, scp-947.txt, scp-748.txt, scp-058.txt, scp-670.txt, scp-150.txt, scp-492.txt, scp-992.txt, scp-641.txt, scp-413.txt, scp-846.txt, scp-105.txt, scp-354.txt, scp-943.txt, scp-374.txt, scp-096.txt, scp-639.txt, scp-925.txt, scp-893.txt, scp-606.txt, scp-691.txt, scp-216.txt, scp-884.txt, scp-466.txt, scp-408.txt, scp-001.txt, scp-544.txt, scp-254.txt, scp-744.txt, scp-343.txt, scp-933.txt, scp-577.txt, scp-746.txt, scp-666.txt, scp-232.txt, scp-335.txt, scp-431.txt, scp-564.txt, scp-168.txt, scp-032.txt]
+Size: 71
+Self-similarity: 0.13102757763737982
+
+Top 8 rated words: [object (45), containment (46), item (46), device (21), appears (34), time (35), safe (32), approximately (29)]
+[scp-907.txt, scp-385.txt, scp-175.txt, scp-044.txt, scp-064.txt, scp-512.txt, scp-586.txt, scp-608.txt, scp-225.txt, scp-320.txt, scp-388.txt, scp-289.txt, scp-297.txt, scp-345.txt, scp-185.txt, scp-005.txt, scp-680.txt, scp-677.txt, scp-815.txt, scp-313.txt, scp-319.txt, scp-226.txt, scp-063.txt, scp-037.txt, scp-233.txt, scp-669.txt, scp-756.txt, scp-685.txt, scp-555.txt, scp-488.txt, scp-227.txt, scp-436.txt, scp-090.txt, scp-314.txt, scp-786.txt, scp-123.txt, scp-988.txt, scp-389.txt, scp-341.txt, scp-155.txt, scp-915.txt, scp-964.txt, scp-390.txt, scp-736.txt, scp-902.txt, scp-219.txt]
+Size: 46
+Self-similarity: 0.11371737231173334
+
+Top 8 rated words: [vehicle (19), location (28), foundation (32), time (35), drive (14), object (38), item (38), status (9)]
+[scp-766.txt, scp-634.txt, scp-941.txt, scp-708.txt, scp-531.txt, scp-516.txt, scp-476.txt, scp-442.txt, scp-704.txt, scp-342.txt, scp-387.txt, scp-368.txt, scp-036.txt, scp-810.txt, scp-050.txt, scp-100.txt, scp-869.txt, scp-115.txt, scp-333.txt, scp-369.txt, scp-120.txt, scp-396.txt, scp-521.txt, scp-926.txt, scp-761.txt, scp-920.txt, scp-462.txt, scp-011.txt, scp-694.txt, scp-130.txt, scp-429.txt, scp-854.txt, scp-858.txt, scp-650.txt, scp-580.txt, scp-973.txt, scp-265.txt, scp-490.txt]
+Size: 38
+Self-similarity: 0.12175404893059427
+
+Top 8 rated words: [specimens (49), containment (71), special (71), organs (43), animals (44), prey (26), plant (19), area (45)]
+[scp-831.txt, scp-822.txt, scp-295.txt, scp-816.txt, scp-529.txt, scp-124.txt, scp-477.txt, scp-954.txt, scp-844.txt, scp-889.txt, scp-157.txt, scp-197.txt, scp-939.txt, scp-845.txt, scp-417.txt, scp-655.txt, scp-672.txt, scp-183.txt, scp-019.txt, scp-371.txt, scp-153.txt, scp-160.txt, scp-857.txt, scp-968.txt, scp-780.txt, scp-745.txt, scp-966.txt, scp-299.txt, scp-863.txt, scp-594.txt, scp-322.txt, scp-749.txt, scp-851.txt, scp-625.txt, scp-252.txt, scp-924.txt, scp-355.txt, scp-955.txt, scp-098.txt, scp-877.txt, scp-588.txt, scp-659.txt, scp-879.txt, scp-848.txt, scp-111.txt, scp-346.txt, scp-799.txt, scp-506.txt, scp-440.txt, scp-165.txt, scp-667.txt, scp-267.txt, scp-143.txt, scp-688.txt, scp-779.txt, scp-489.txt, scp-929.txt, scp-307.txt, scp-561.txt, scp-995.txt, scp-218.txt, scp-885.txt, scp-867.txt, scp-994.txt, scp-257.txt, scp-615.txt, scp-937.txt, scp-906.txt, scp-824.txt, scp-548.txt, scp-312.txt]
+Size: 71
+Self-similarity: 0.1202814817422072
+
+Top 8 rated words: [subject (130), testing (98), effect (100), personnel (108), time (100), object (130), containment (130), item (129)]
+[scp-547.txt, scp-290.txt, scp-678.txt, scp-718.txt, scp-829.txt, scp-849.txt, scp-330.txt, scp-474.txt, scp-739.txt, scp-508.txt, scp-082.txt, scp-898.txt, scp-375.txt, scp-207.txt, scp-028.txt, scp-637.txt, scp-710.txt, scp-727.txt, scp-301.txt, scp-944.txt, scp-626.txt, scp-358.txt, scp-027.txt, scp-460.txt, scp-162.txt, scp-765.txt, scp-472.txt, scp-308.txt, scp-138.txt, scp-156.txt, scp-438.txt, scp-316.txt, scp-683.txt, scp-180.txt, scp-293.txt, scp-078.txt, scp-348.txt, scp-919.txt, scp-888.txt, scp-142.txt, scp-284.txt, scp-465.txt, scp-318.txt, scp-108.txt, scp-031.txt, scp-393.txt, scp-482.txt, scp-774.txt, scp-942.txt, scp-131.txt, scp-502.txt, scp-203.txt, scp-012.txt, scp-209.txt, scp-809.txt, scp-652.txt, scp-182.txt, scp-825.txt, scp-832.txt, scp-272.txt, scp-483.txt, scp-104.txt, scp-596.txt, scp-501.txt, scp-486.txt, scp-467.txt, scp-056.txt, scp-721.txt, scp-452.txt, scp-377.txt, scp-546.txt, scp-158.txt, scp-901.txt, scp-292.txt, scp-690.txt, scp-309.txt, scp-769.txt, scp-480.txt, scp-263.txt, scp-620.txt, scp-350.txt, scp-412.txt, scp-762.txt, scp-497.txt, scp-073.txt, scp-959.txt, scp-052.txt, scp-475.txt, scp-174.txt, scp-305.txt, scp-194.txt, scp-282.txt, scp-239.txt, scp-841.txt, scp-262.txt, scp-801.txt, scp-702.txt, scp-723.txt, scp-151.txt, scp-258.txt, scp-434.txt, scp-623.txt, scp-275.txt, scp-859.txt, scp-507.txt, scp-281.txt, scp-325.txt, scp-463.txt, scp-382.txt, scp-230.txt, scp-007.txt, scp-551.txt, scp-146.txt, scp-061.txt, scp-221.txt, scp-916.txt, scp-819.txt, scp-707.txt, scp-215.txt, scp-562.txt, scp-241.txt, scp-302.txt, scp-570.txt, scp-911.txt, scp-067.txt, scp-113.txt, scp-454.txt, scp-212.txt, scp-196.txt, scp-969.txt]
+Size: 130
+Self-similarity: 0.14172524568603298
+
+Top 8 rated words: [testing (52), subject (46), dr (38), item (51), containment (53), object (53), personnel (42), wear (21)]
+[scp-117.txt, scp-738.txt, scp-170.txt, scp-912.txt, scp-585.txt, scp-997.txt, scp-025.txt, scp-923.txt, scp-445.txt, scp-399.txt, scp-288.txt, scp-661.txt, scp-093.txt, scp-983.txt, scp-712.txt, scp-119.txt, scp-247.txt, scp-403.txt, scp-619.txt, scp-503.txt, scp-559.txt, scp-950.txt, scp-896.txt, scp-038.txt, scp-187.txt, scp-807.txt, scp-539.txt, scp-154.txt, scp-334.txt, scp-533.txt, scp-311.txt, scp-458.txt, scp-528.txt, scp-914.txt, scp-248.txt, scp-971.txt, scp-379.txt, scp-558.txt, scp-500.txt, scp-996.txt, scp-010.txt, scp-145.txt, scp-698.txt, scp-714.txt, scp-692.txt, scp-876.txt, scp-331.txt, scp-376.txt, scp-494.txt, scp-834.txt, scp-668.txt, scp-268.txt, scp-865.txt]
+Size: 53
+Self-similarity: 0.11975851385916784
+
+Top 8 rated words: [infection (60), host (35), containment (76), subject (55), stage (37), human (65), tissue (39), body (50)]
+[scp-673.txt, scp-008.txt, scp-790.txt, scp-306.txt, scp-936.txt, scp-633.txt, scp-409.txt, scp-730.txt, scp-782.txt, scp-510.txt, scp-940.txt, scp-751.txt, scp-904.txt, scp-505.txt, scp-532.txt, scp-742.txt, scp-255.txt, scp-679.txt, scp-217.txt, scp-171.txt, scp-366.txt, scp-927.txt, scp-726.txt, scp-553.txt, scp-658.txt, scp-868.txt, scp-775.txt, scp-584.txt, scp-695.txt, scp-441.txt, scp-593.txt, scp-383.txt, scp-003.txt, scp-734.txt, scp-478.txt, scp-407.txt, scp-610.txt, scp-427.txt, scp-972.txt, scp-340.txt, scp-439.txt, scp-125.txt, scp-370.txt, scp-833.txt, scp-135.txt, scp-589.txt, scp-405.txt, scp-020.txt, scp-420.txt, scp-164.txt, scp-805.txt, scp-386.txt, scp-016.txt, scp-047.txt, scp-189.txt, scp-269.txt, scp-571.txt, scp-752.txt, scp-772.txt, scp-081.txt, scp-651.txt, scp-059.txt, scp-538.txt, scp-456.txt, scp-444.txt, scp-353.txt, scp-149.txt, scp-660.txt, scp-253.txt, scp-731.txt, scp-129.txt, scp-021.txt, scp-686.txt, scp-378.txt, scp-618.txt, scp-611.txt]
+Size: 76
+Self-similarity: 0.14293201549818318
+
+Top 8 rated words: [water (36), testing (36), containment (46), temperature (21), personnel (34), material (34), item (46), object (46)]
+[scp-365.txt, scp-676.txt, scp-495.txt, scp-754.txt, scp-391.txt, scp-630.txt, scp-107.txt, scp-261.txt, scp-109.txt, scp-568.txt, scp-663.txt, scp-649.txt, scp-240.txt, scp-459.txt, scp-812.txt, scp-622.txt, scp-989.txt, scp-840.txt, scp-075.txt, scp-777.txt, scp-836.txt, scp-294.txt, scp-496.txt, scp-015.txt, scp-628.txt, scp-009.txt, scp-729.txt, scp-054.txt, scp-743.txt, scp-402.txt, scp-791.txt, scp-432.txt, scp-770.txt, scp-394.txt, scp-006.txt, scp-244.txt, scp-242.txt, scp-310.txt, scp-045.txt, scp-060.txt, scp-759.txt, scp-159.txt, scp-837.txt, scp-148.txt, scp-642.txt, scp-357.txt]
+Size: 46
+Self-similarity: 0.1258349885711422
+
+
+Weighted average self-similarity: 0.12769610133931558
+
+8:
+
+Top 8 rated words: [subject (228), testing (178), containment (229), personnel (187), effect (176), time (181), object (229), item (226)]
+[scp-547.txt, scp-290.txt, scp-912.txt, scp-678.txt, scp-718.txt, scp-829.txt, scp-849.txt, scp-330.txt, scp-764.txt, scp-474.txt, scp-739.txt, scp-997.txt, scp-508.txt, scp-504.txt, scp-409.txt, scp-025.txt, scp-708.txt, scp-082.txt, scp-898.txt, scp-034.txt, scp-375.txt, scp-195.txt, scp-781.txt, scp-207.txt, scp-028.txt, scp-637.txt, scp-818.txt, scp-710.txt, scp-208.txt, scp-513.txt, scp-923.txt, scp-727.txt, scp-301.txt, scp-944.txt, scp-626.txt, scp-445.txt, scp-358.txt, scp-861.txt, scp-091.txt, scp-288.txt, scp-442.txt, scp-798.txt, scp-661.txt, scp-904.txt, scp-093.txt, scp-027.txt, scp-460.txt, scp-162.txt, scp-765.txt, scp-472.txt, scp-308.txt, scp-568.txt, scp-138.txt, scp-255.txt, scp-156.txt, scp-438.txt, scp-220.txt, scp-983.txt, scp-228.txt, scp-316.txt, scp-683.txt, scp-180.txt, scp-293.txt, scp-679.txt, scp-171.txt, scp-134.txt, scp-078.txt, scp-348.txt, scp-733.txt, scp-362.txt, scp-712.txt, scp-919.txt, scp-590.txt, scp-888.txt, scp-247.txt, scp-284.txt, scp-465.txt, scp-418.txt, scp-318.txt, scp-108.txt, scp-031.txt, scp-393.txt, scp-482.txt, scp-774.txt, scp-890.txt, scp-942.txt, scp-131.txt, scp-868.txt, scp-502.txt, scp-810.txt, scp-203.txt, scp-071.txt, scp-503.txt, scp-012.txt, scp-209.txt, scp-600.txt, scp-809.txt, scp-652.txt, scp-182.txt, scp-825.txt, scp-410.txt, scp-896.txt, scp-826.txt, scp-725.txt, scp-750.txt, scp-832.txt, scp-272.txt, scp-483.txt, scp-978.txt, scp-104.txt, scp-596.txt, scp-441.txt, scp-501.txt, scp-486.txt, scp-467.txt, scp-056.txt, scp-721.txt, scp-407.txt, scp-452.txt, scp-481.txt, scp-377.txt, scp-546.txt, scp-972.txt, scp-063.txt, scp-539.txt, scp-901.txt, scp-053.txt, scp-292.txt, scp-690.txt, scp-309.txt, scp-769.txt, scp-404.txt, scp-480.txt, scp-263.txt, scp-026.txt, scp-620.txt, scp-154.txt, scp-334.txt, scp-522.txt, scp-350.txt, scp-653.txt, scp-412.txt, scp-311.txt, scp-497.txt, scp-370.txt, scp-099.txt, scp-073.txt, scp-528.txt, scp-589.txt, scp-959.txt, scp-405.txt, scp-052.txt, scp-728.txt, scp-914.txt, scp-462.txt, scp-475.txt, scp-425.txt, scp-166.txt, scp-638.txt, scp-174.txt, scp-305.txt, scp-321.txt, scp-194.txt, scp-980.txt, scp-298.txt, scp-797.txt, scp-558.txt, scp-282.txt, scp-500.txt, scp-239.txt, scp-035.txt, scp-841.txt, scp-262.txt, scp-801.txt, scp-702.txt, scp-192.txt, scp-977.txt, scp-723.txt, scp-151.txt, scp-103.txt, scp-258.txt, scp-016.txt, scp-434.txt, scp-623.txt, scp-275.txt, scp-336.txt, scp-859.txt, scp-507.txt, scp-991.txt, scp-767.txt, scp-953.txt, scp-325.txt, scp-698.txt, scp-280.txt, scp-463.txt, scp-382.txt, scp-651.txt, scp-714.txt, scp-230.txt, scp-007.txt, scp-551.txt, scp-146.txt, scp-061.txt, scp-221.txt, scp-395.txt, scp-916.txt, scp-732.txt, scp-876.txt, scp-353.txt, scp-819.txt, scp-759.txt, scp-707.txt, scp-415.txt, scp-494.txt, scp-215.txt, scp-562.txt, scp-241.txt, scp-668.txt, scp-302.txt, scp-570.txt, scp-931.txt, scp-911.txt, scp-067.txt, scp-268.txt, scp-113.txt, scp-454.txt, scp-212.txt, scp-196.txt, scp-201.txt]
+Size: 229
+Self-similarity: 0.12203892979405132
+
+Top 8 rated words: [object (90), device (50), testing (70), containment (91), effect (64), item (89), time (68), safe (71)]
+[scp-117.txt, scp-713.txt, scp-170.txt, scp-766.txt, scp-907.txt, scp-385.txt, scp-585.txt, scp-768.txt, scp-633.txt, scp-175.txt, scp-495.txt, scp-044.txt, scp-512.txt, scp-399.txt, scp-586.txt, scp-608.txt, scp-225.txt, scp-344.txt, scp-320.txt, scp-649.txt, scp-191.txt, scp-119.txt, scp-388.txt, scp-142.txt, scp-240.txt, scp-403.txt, scp-459.txt, scp-297.txt, scp-619.txt, scp-345.txt, scp-380.txt, scp-185.txt, scp-595.txt, scp-005.txt, scp-680.txt, scp-050.txt, scp-677.txt, scp-115.txt, scp-815.txt, scp-313.txt, scp-226.txt, scp-278.txt, scp-807.txt, scp-427.txt, scp-158.txt, scp-033.txt, scp-037.txt, scp-233.txt, scp-533.txt, scp-669.txt, scp-521.txt, scp-762.txt, scp-458.txt, scp-761.txt, scp-555.txt, scp-248.txt, scp-852.txt, scp-227.txt, scp-436.txt, scp-379.txt, scp-786.txt, scp-804.txt, scp-066.txt, scp-010.txt, scp-770.txt, scp-281.txt, scp-429.txt, scp-498.txt, scp-123.txt, scp-244.txt, scp-988.txt, scp-535.txt, scp-520.txt, scp-389.txt, scp-341.txt, scp-155.txt, scp-915.txt, scp-390.txt, scp-118.txt, scp-310.txt, scp-045.txt, scp-159.txt, scp-814.txt, scp-219.txt, scp-188.txt, scp-837.txt, scp-148.txt, scp-433.txt, scp-328.txt, scp-357.txt, scp-276.txt]
+Size: 91
+Self-similarity: 0.09643518135548654
+
+Top 8 rated words: [dr (117), agent (82), foundation (122), containment (131), time (116), personnel (108), interview (79), subject (85)]
+[scp-337.txt, scp-574.txt, scp-941.txt, scp-079.txt, scp-645.txt, scp-511.txt, scp-735.txt, scp-137.txt, scp-741.txt, scp-952.txt, scp-758.txt, scp-414.txt, scp-543.txt, scp-963.txt, scp-682.txt, scp-516.txt, scp-223.txt, scp-181.txt, scp-999.txt, scp-990.txt, scp-536.txt, scp-136.txt, scp-049.txt, scp-484.txt, scp-835.txt, scp-599.txt, scp-908.txt, scp-654.txt, scp-874.txt, scp-887.txt, scp-684.txt, scp-342.txt, scp-048.txt, scp-398.txt, scp-948.txt, scp-112.txt, scp-387.txt, scp-446.txt, scp-327.txt, scp-363.txt, scp-397.txt, scp-457.txt, scp-485.txt, scp-224.txt, scp-838.txt, scp-086.txt, scp-776.txt, scp-057.txt, scp-869.txt, scp-287.txt, scp-473.txt, scp-211.txt, scp-947.txt, scp-187.txt, scp-351.txt, scp-748.txt, scp-058.txt, scp-670.txt, scp-150.txt, scp-411.txt, scp-491.txt, scp-492.txt, scp-992.txt, scp-641.txt, scp-900.txt, scp-273.txt, scp-413.txt, scp-846.txt, scp-186.txt, scp-105.txt, scp-607.txt, scp-163.txt, scp-354.txt, scp-943.txt, scp-374.txt, scp-979.txt, scp-114.txt, scp-096.txt, scp-639.txt, scp-523.txt, scp-847.txt, scp-925.txt, scp-893.txt, scp-996.txt, scp-285.txt, scp-897.txt, scp-694.txt, scp-606.txt, scp-691.txt, scp-116.txt, scp-216.txt, scp-740.txt, scp-796.txt, scp-231.txt, scp-884.txt, scp-130.txt, scp-466.txt, scp-051.txt, scp-946.txt, scp-408.txt, scp-970.txt, scp-001.txt, scp-544.txt, scp-254.txt, scp-744.txt, scp-343.txt, scp-657.txt, scp-172.txt, scp-933.txt, scp-577.txt, scp-331.txt, scp-283.txt, scp-973.txt, scp-746.txt, scp-922.txt, scp-069.txt, scp-552.txt, scp-612.txt, scp-666.txt, scp-834.txt, scp-265.txt, scp-232.txt, scp-335.txt, scp-431.txt, scp-564.txt, scp-865.txt, scp-542.txt, scp-168.txt, scp-029.txt, scp-490.txt, scp-032.txt, scp-828.txt]
+Size: 132
+Self-similarity: 0.11033061543505836
+
+Top 8 rated words: [specimens (66), containment (142), organs (90), special (142), human (106), infection (44), area (88), host (36)]
+[scp-673.txt, scp-831.txt, scp-788.txt, scp-008.txt, scp-422.txt, scp-822.txt, scp-295.txt, scp-790.txt, scp-306.txt, scp-936.txt, scp-816.txt, scp-529.txt, scp-730.txt, scp-391.txt, scp-124.txt, scp-782.txt, scp-477.txt, scp-510.txt, scp-940.txt, scp-751.txt, scp-844.txt, scp-532.txt, scp-742.txt, scp-236.txt, scp-647.txt, scp-889.txt, scp-217.txt, scp-565.txt, scp-157.txt, scp-366.txt, scp-927.txt, scp-726.txt, scp-939.txt, scp-850.txt, scp-604.txt, scp-845.txt, scp-417.txt, scp-655.txt, scp-672.txt, scp-811.txt, scp-183.txt, scp-775.txt, scp-019.txt, scp-371.txt, scp-584.txt, scp-153.txt, scp-763.txt, scp-160.txt, scp-695.txt, scp-469.txt, scp-857.txt, scp-968.txt, scp-541.txt, scp-593.txt, scp-383.txt, scp-525.txt, scp-003.txt, scp-734.txt, scp-780.txt, scp-745.txt, scp-771.txt, scp-610.txt, scp-966.txt, scp-840.txt, scp-299.txt, scp-340.txt, scp-836.txt, scp-863.txt, scp-550.txt, scp-439.txt, scp-594.txt, scp-749.txt, scp-851.txt, scp-625.txt, scp-135.txt, scp-252.txt, scp-924.txt, scp-355.txt, scp-955.txt, scp-098.txt, scp-420.txt, scp-743.txt, scp-164.txt, scp-877.txt, scp-588.txt, scp-659.txt, scp-879.txt, scp-848.txt, scp-111.txt, scp-805.txt, scp-386.txt, scp-047.txt, scp-189.txt, scp-269.txt, scp-346.txt, scp-799.txt, scp-506.txt, scp-772.txt, scp-440.txt, scp-250.txt, scp-352.txt, scp-165.txt, scp-667.txt, scp-267.txt, scp-081.txt, scp-688.txt, scp-646.txt, scp-059.txt, scp-538.txt, scp-779.txt, scp-489.txt, scp-929.txt, scp-456.txt, scp-307.txt, scp-561.txt, scp-421.txt, scp-995.txt, scp-218.txt, scp-149.txt, scp-885.txt, scp-530.txt, scp-760.txt, scp-867.txt, scp-291.txt, scp-660.txt, scp-994.txt, scp-253.txt, scp-731.txt, scp-129.txt, scp-021.txt, scp-257.txt, scp-615.txt, scp-817.txt, scp-686.txt, scp-937.txt, scp-906.txt, scp-229.txt, scp-824.txt, scp-548.txt, scp-401.txt, scp-312.txt, scp-611.txt]
+Size: 142
+Self-similarity: 0.11044970411515545
+
+Top 8 rated words: [mr (23), water (32), testing (41), containment (56), item (54), dr (33), object (55), personnel (38)]
+[scp-127.txt, scp-365.txt, scp-676.txt, scp-629.txt, scp-917.txt, scp-576.txt, scp-549.txt, scp-630.txt, scp-107.txt, scp-261.txt, scp-426.txt, scp-109.txt, scp-644.txt, scp-663.txt, scp-662.txt, scp-812.txt, scp-706.txt, scp-905.txt, scp-559.txt, scp-573.txt, scp-950.txt, scp-622.txt, scp-989.txt, scp-222.txt, scp-038.txt, scp-909.txt, scp-910.txt, scp-400.txt, scp-777.txt, scp-294.txt, scp-496.txt, scp-324.txt, scp-177.txt, scp-545.txt, scp-322.txt, scp-729.txt, scp-756.txt, scp-833.txt, scp-920.txt, scp-054.txt, scp-200.txt, scp-572.txt, scp-402.txt, scp-791.txt, scp-042.txt, scp-394.txt, scp-913.txt, scp-006.txt, scp-143.txt, scp-800.txt, scp-242.txt, scp-527.txt, scp-870.txt, scp-773.txt, scp-190.txt, scp-642.txt]
+Size: 56
+Self-similarity: 0.10813636799146073
+
+Top 8 rated words: [containment (155), personnel (140), object (155), room (84), observed (101), item (155), time (129), foundation (125)]
+[scp-178.txt, scp-018.txt, scp-453.txt, scp-717.txt, scp-634.txt, scp-080.txt, scp-665.txt, scp-987.txt, scp-002.txt, scp-023.txt, scp-251.txt, scp-783.txt, scp-860.txt, scp-064.txt, scp-372.txt, scp-531.txt, scp-260.txt, scp-830.txt, scp-476.txt, scp-515.txt, scp-470.txt, scp-017.txt, scp-648.txt, scp-169.txt, scp-598.txt, scp-640.txt, scp-704.txt, scp-982.txt, scp-384.txt, scp-065.txt, scp-076.txt, scp-339.txt, scp-461.txt, scp-094.txt, scp-303.txt, scp-961.txt, scp-479.txt, scp-084.txt, scp-289.txt, scp-875.txt, scp-259.txt, scp-368.txt, scp-036.txt, scp-945.txt, scp-087.txt, scp-326.txt, scp-110.txt, scp-234.txt, scp-985.txt, scp-173.txt, scp-085.txt, scp-487.txt, scp-856.txt, scp-100.txt, scp-102.txt, scp-447.txt, scp-264.txt, scp-144.txt, scp-333.txt, scp-789.txt, scp-359.txt, scp-369.txt, scp-184.txt, scp-627.txt, scp-450.txt, scp-700.txt, scp-075.txt, scp-015.txt, scp-126.txt, scp-628.txt, scp-671.txt, scp-128.txt, scp-120.txt, scp-451.txt, scp-004.txt, scp-616.txt, scp-636.txt, scp-605.txt, scp-396.txt, scp-198.txt, scp-214.txt, scp-416.txt, scp-125.txt, scp-243.txt, scp-088.txt, scp-926.txt, scp-587.txt, scp-842.txt, scp-419.txt, scp-685.txt, scp-468.txt, scp-205.txt, scp-518.txt, scp-167.txt, scp-070.txt, scp-055.txt, scp-213.txt, scp-020.txt, scp-238.txt, scp-488.txt, scp-722.txt, scp-597.txt, scp-090.txt, scp-880.txt, scp-794.txt, scp-802.txt, scp-314.txt, scp-329.txt, scp-011.txt, scp-083.txt, scp-499.txt, scp-432.txt, scp-895.txt, scp-855.txt, scp-883.txt, scp-778.txt, scp-271.txt, scp-347.txt, scp-455.txt, scp-854.txt, scp-296.txt, scp-899.txt, scp-556.txt, scp-256.txt, scp-934.txt, scp-176.txt, scp-858.txt, scp-557.txt, scp-279.txt, scp-424.txt, scp-964.txt, scp-699.txt, scp-753.txt, scp-249.txt, scp-873.txt, scp-139.txt, scp-808.txt, scp-277.txt, scp-650.txt, scp-681.txt, scp-580.txt, scp-689.txt, scp-957.txt, scp-602.txt, scp-902.txt, scp-795.txt, scp-101.txt, scp-705.txt, scp-266.txt, scp-435.txt, scp-106.txt, scp-068.txt, scp-716.txt, scp-882.txt, scp-709.txt]
+Size: 155
+Self-similarity: 0.10791601627332523
+
+Top 8 rated words: [data (51), foundation (62), recorded (51), research (44), appears (56), containment (70), expunged (39), event (38)]
+[scp-738.txt, scp-674.txt, scp-423.txt, scp-656.txt, scp-095.txt, scp-043.txt, scp-537.txt, scp-338.txt, scp-603.txt, scp-270.txt, scp-866.txt, scp-892.txt, scp-471.txt, scp-935.txt, scp-719.txt, scp-624.txt, scp-246.txt, scp-140.txt, scp-687.txt, scp-062.txt, scp-711.txt, scp-300.txt, scp-317.txt, scp-981.txt, scp-364.txt, scp-089.txt, scp-202.txt, scp-878.txt, scp-928.txt, scp-951.txt, scp-381.txt, scp-206.txt, scp-356.txt, scp-986.txt, scp-024.txt, scp-014.txt, scp-041.txt, scp-960.txt, scp-998.txt, scp-519.txt, scp-591.txt, scp-443.txt, scp-592.txt, scp-701.txt, scp-030.txt, scp-373.txt, scp-361.txt, scp-141.txt, scp-720.txt, scp-179.txt, scp-971.txt, scp-147.txt, scp-579.txt, scp-583.txt, scp-976.txt, scp-696.txt, scp-145.txt, scp-315.txt, scp-448.txt, scp-724.txt, scp-614.txt, scp-560.txt, scp-349.txt, scp-286.txt, scp-152.txt, scp-304.txt, scp-736.txt, scp-245.txt, scp-077.txt, scp-993.txt]
+Size: 70
+Self-similarity: 0.09892024612688444
+
+Top 8 rated words: [instances (116), containment (124), foundation (104), human (77), individuals (75), personnel (90), special (124), object (124)]
+[scp-204.txt, scp-132.txt, scp-097.txt, scp-013.txt, scp-886.txt, scp-133.txt, scp-493.txt, scp-609.txt, scp-932.txt, scp-962.txt, scp-554.txt, scp-754.txt, scp-566.txt, scp-526.txt, scp-582.txt, scp-984.txt, scp-793.txt, scp-505.txt, scp-954.txt, scp-437.txt, scp-956.txt, scp-967.txt, scp-958.txt, scp-072.txt, scp-864.txt, scp-197.txt, scp-974.txt, scp-635.txt, scp-949.txt, scp-161.txt, scp-803.txt, scp-193.txt, scp-121.txt, scp-553.txt, scp-022.txt, scp-658.txt, scp-464.txt, scp-664.txt, scp-921.txt, scp-643.txt, scp-617.txt, scp-092.txt, scp-871.txt, scp-747.txt, scp-785.txt, scp-040.txt, scp-930.txt, scp-631.txt, scp-122.txt, scp-319.txt, scp-046.txt, scp-367.txt, scp-540.txt, scp-862.txt, scp-478.txt, scp-517.txt, scp-821.txt, scp-449.txt, scp-853.txt, scp-613.txt, scp-392.txt, scp-881.txt, scp-210.txt, scp-009.txt, scp-534.txt, scp-581.txt, scp-938.txt, scp-632.txt, scp-428.txt, scp-843.txt, scp-569.txt, scp-039.txt, scp-737.txt, scp-514.txt, scp-757.txt, scp-715.txt, scp-827.txt, scp-360.txt, scp-332.txt, scp-813.txt, scp-975.txt, scp-965.txt, scp-074.txt, scp-199.txt, scp-894.txt, scp-571.txt, scp-693.txt, scp-752.txt, scp-323.txt, scp-839.txt, scp-903.txt, scp-784.txt, scp-697.txt, scp-792.txt, scp-509.txt, scp-806.txt, scp-692.txt, scp-406.txt, scp-621.txt, scp-567.txt, scp-891.txt, scp-820.txt, scp-563.txt, scp-872.txt, scp-524.txt, scp-444.txt, scp-703.txt, scp-755.txt, scp-060.txt, scp-601.txt, scp-675.txt, scp-823.txt, scp-575.txt, scp-376.txt, scp-578.txt, scp-918.txt, scp-274.txt, scp-235.txt, scp-787.txt, scp-430.txt, scp-969.txt, scp-378.txt, scp-237.txt, scp-618.txt]
+Size: 124
+Self-similarity: 0.11448181305600784
+
+
+Weighted average self-similarity: 0.1096509594181748
+
+4:
+
+Top 8 rated words: [subject (354), testing (283), containment (391), personnel (318), time (321), effect (282), object (391), item (384)]
+[scp-178.txt, scp-574.txt, scp-547.txt, scp-738.txt, scp-013.txt, scp-634.txt, scp-080.txt, scp-290.txt, scp-941.txt, scp-912.txt, scp-678.txt, scp-718.txt, scp-008.txt, scp-493.txt, scp-609.txt, scp-829.txt, scp-849.txt, scp-330.txt, scp-735.txt, scp-987.txt, scp-764.txt, scp-474.txt, scp-739.txt, scp-997.txt, scp-002.txt, scp-251.txt, scp-633.txt, scp-508.txt, scp-758.txt, scp-504.txt, scp-409.txt, scp-554.txt, scp-025.txt, scp-708.txt, scp-082.txt, scp-898.txt, scp-034.txt, scp-375.txt, scp-195.txt, scp-781.txt, scp-372.txt, scp-207.txt, scp-028.txt, scp-637.txt, scp-818.txt, scp-963.txt, scp-582.txt, scp-576.txt, scp-710.txt, scp-208.txt, scp-513.txt, scp-923.txt, scp-516.txt, scp-830.txt, scp-630.txt, scp-727.txt, scp-301.txt, scp-944.txt, scp-626.txt, scp-445.txt, scp-358.txt, scp-861.txt, scp-091.txt, scp-288.txt, scp-426.txt, scp-442.txt, scp-798.txt, scp-661.txt, scp-181.txt, scp-904.txt, scp-999.txt, scp-935.txt, scp-093.txt, scp-109.txt, scp-027.txt, scp-460.txt, scp-162.txt, scp-765.txt, scp-598.txt, scp-624.txt, scp-472.txt, scp-308.txt, scp-536.txt, scp-138.txt, scp-136.txt, scp-255.txt, scp-156.txt, scp-438.txt, scp-220.txt, scp-983.txt, scp-228.txt, scp-316.txt, scp-683.txt, scp-180.txt, scp-072.txt, scp-246.txt, scp-293.txt, scp-679.txt, scp-484.txt, scp-076.txt, scp-171.txt, scp-191.txt, scp-134.txt, scp-078.txt, scp-348.txt, scp-733.txt, scp-362.txt, scp-712.txt, scp-919.txt, scp-590.txt, scp-888.txt, scp-247.txt, scp-142.txt, scp-961.txt, scp-284.txt, scp-465.txt, scp-418.txt, scp-635.txt, scp-318.txt, scp-687.txt, scp-161.txt, scp-108.txt, scp-887.txt, scp-479.txt, scp-031.txt, scp-393.txt, scp-084.txt, scp-482.txt, scp-774.txt, scp-890.txt, scp-942.txt, scp-317.txt, scp-131.txt, scp-868.txt, scp-112.txt, scp-502.txt, scp-446.txt, scp-368.txt, scp-664.txt, scp-945.txt, scp-810.txt, scp-203.txt, scp-071.txt, scp-503.txt, scp-921.txt, scp-012.txt, scp-326.txt, scp-209.txt, scp-202.txt, scp-600.txt, scp-809.txt, scp-485.txt, scp-652.txt, scp-595.txt, scp-559.txt, scp-085.txt, scp-182.txt, scp-573.txt, scp-950.txt, scp-825.txt, scp-747.txt, scp-410.txt, scp-896.txt, scp-826.txt, scp-622.txt, scp-122.txt, scp-725.txt, scp-750.txt, scp-447.txt, scp-832.txt, scp-272.txt, scp-483.txt, scp-978.txt, scp-104.txt, scp-596.txt, scp-441.txt, scp-038.txt, scp-501.txt, scp-486.txt, scp-187.txt, scp-467.txt, scp-056.txt, scp-721.txt, scp-734.txt, scp-789.txt, scp-407.txt, scp-452.txt, scp-351.txt, scp-369.txt, scp-481.txt, scp-807.txt, scp-517.txt, scp-377.txt, scp-821.txt, scp-546.txt, scp-158.txt, scp-972.txt, scp-063.txt, scp-450.txt, scp-539.txt, scp-294.txt, scp-496.txt, scp-901.txt, scp-053.txt, scp-292.txt, scp-690.txt, scp-126.txt, scp-309.txt, scp-041.txt, scp-769.txt, scp-992.txt, scp-404.txt, scp-480.txt, scp-263.txt, scp-451.txt, scp-641.txt, scp-004.txt, scp-545.txt, scp-620.txt, scp-154.txt, scp-334.txt, scp-591.txt, scp-522.txt, scp-210.txt, scp-273.txt, scp-350.txt, scp-198.txt, scp-214.txt, scp-653.txt, scp-412.txt, scp-311.txt, scp-762.txt, scp-497.txt, scp-370.txt, scp-938.txt, scp-592.txt, scp-842.txt, scp-419.txt, scp-099.txt, scp-073.txt, scp-528.txt, scp-030.txt, scp-468.txt, scp-607.txt, scp-589.txt, scp-959.txt, scp-405.txt, scp-052.txt, scp-728.txt, scp-914.txt, scp-205.txt, scp-462.txt, scp-514.txt, scp-475.txt, scp-248.txt, scp-054.txt, scp-979.txt, scp-114.txt, scp-425.txt, scp-166.txt, scp-361.txt, scp-070.txt, scp-638.txt, scp-174.txt, scp-213.txt, scp-305.txt, scp-321.txt, scp-194.txt, scp-597.txt, scp-980.txt, scp-298.txt, scp-797.txt, scp-971.txt, scp-847.txt, scp-794.txt, scp-558.txt, scp-147.txt, scp-282.txt, scp-500.txt, scp-239.txt, scp-200.txt, scp-332.txt, scp-804.txt, scp-035.txt, scp-996.txt, scp-841.txt, scp-572.txt, scp-262.txt, scp-801.txt, scp-702.txt, scp-965.txt, scp-192.txt, scp-805.txt, scp-977.txt, scp-042.txt, scp-723.txt, scp-151.txt, scp-103.txt, scp-258.txt, scp-016.txt, scp-434.txt, scp-116.txt, scp-623.txt, scp-796.txt, scp-275.txt, scp-336.txt, scp-859.txt, scp-507.txt, scp-894.txt, scp-281.txt, scp-571.txt, scp-991.txt, scp-767.txt, scp-006.txt, scp-953.txt, scp-325.txt, scp-323.txt, scp-903.txt, scp-145.txt, scp-429.txt, scp-698.txt, scp-280.txt, scp-463.txt, scp-382.txt, scp-498.txt, scp-347.txt, scp-051.txt, scp-946.txt, scp-509.txt, scp-806.txt, scp-651.txt, scp-714.txt, scp-230.txt, scp-724.txt, scp-007.txt, scp-242.txt, scp-551.txt, scp-146.txt, scp-899.txt, scp-061.txt, scp-286.txt, scp-221.txt, scp-395.txt, scp-916.txt, scp-732.txt, scp-657.txt, scp-172.txt, scp-933.txt, scp-773.txt, scp-876.txt, scp-353.txt, scp-819.txt, scp-601.txt, scp-759.txt, scp-675.txt, scp-707.txt, scp-415.txt, scp-689.txt, scp-494.txt, scp-957.txt, scp-552.txt, scp-215.txt, scp-666.txt, scp-562.txt, scp-190.txt, scp-077.txt, scp-241.txt, scp-668.txt, scp-302.txt, scp-570.txt, scp-266.txt, scp-931.txt, scp-911.txt, scp-235.txt, scp-067.txt, scp-268.txt, scp-106.txt, scp-564.txt, scp-113.txt, scp-454.txt, scp-865.txt, scp-212.txt, scp-542.txt, scp-196.txt, scp-716.txt, scp-787.txt, scp-430.txt, scp-029.txt, scp-969.txt, scp-276.txt, scp-201.txt]
+Size: 391
+Self-similarity: 0.10807354329759468
+
+Top 8 rated words: [object (147), containment (148), item (147), testing (100), personnel (101), foundation (110), appears (103), time (107)]
+[scp-117.txt, scp-127.txt, scp-713.txt, scp-018.txt, scp-170.txt, scp-365.txt, scp-766.txt, scp-907.txt, scp-676.txt, scp-385.txt, scp-133.txt, scp-585.txt, scp-768.txt, scp-175.txt, scp-495.txt, scp-044.txt, scp-064.txt, scp-471.txt, scp-531.txt, scp-260.txt, scp-515.txt, scp-512.txt, scp-399.txt, scp-261.txt, scp-017.txt, scp-586.txt, scp-568.txt, scp-608.txt, scp-225.txt, scp-344.txt, scp-663.txt, scp-320.txt, scp-649.txt, scp-339.txt, scp-094.txt, scp-119.txt, scp-388.txt, scp-240.txt, scp-403.txt, scp-289.txt, scp-459.txt, scp-812.txt, scp-297.txt, scp-259.txt, scp-619.txt, scp-364.txt, scp-345.txt, scp-380.txt, scp-234.txt, scp-185.txt, scp-985.txt, scp-173.txt, scp-005.txt, scp-680.txt, scp-050.txt, scp-487.txt, scp-677.txt, scp-115.txt, scp-989.txt, scp-815.txt, scp-313.txt, scp-319.txt, scp-226.txt, scp-144.txt, scp-333.txt, scp-184.txt, scp-278.txt, scp-910.txt, scp-627.txt, scp-015.txt, scp-033.txt, scp-628.txt, scp-037.txt, scp-128.txt, scp-120.txt, scp-233.txt, scp-533.txt, scp-669.txt, scp-521.txt, scp-416.txt, scp-125.txt, scp-756.txt, scp-243.txt, scp-088.txt, scp-926.txt, scp-587.txt, scp-458.txt, scp-685.txt, scp-761.txt, scp-555.txt, scp-852.txt, scp-488.txt, scp-227.txt, scp-436.txt, scp-090.txt, scp-179.txt, scp-379.txt, scp-314.txt, scp-786.txt, scp-011.txt, scp-499.txt, scp-402.txt, scp-791.txt, scp-066.txt, scp-432.txt, scp-895.txt, scp-010.txt, scp-770.txt, scp-394.txt, scp-271.txt, scp-123.txt, scp-448.txt, scp-244.txt, scp-988.txt, scp-535.txt, scp-296.txt, scp-520.txt, scp-389.txt, scp-858.txt, scp-424.txt, scp-341.txt, scp-155.txt, scp-915.txt, scp-964.txt, scp-390.txt, scp-118.txt, scp-699.txt, scp-310.txt, scp-045.txt, scp-139.txt, scp-808.txt, scp-650.txt, scp-736.txt, scp-159.txt, scp-814.txt, scp-902.txt, scp-219.txt, scp-101.txt, scp-245.txt, scp-188.txt, scp-837.txt, scp-148.txt, scp-435.txt, scp-433.txt, scp-068.txt, scp-328.txt, scp-882.txt, scp-357.txt]
+Size: 148
+Self-similarity: 0.08822046091208682
+
+Top 8 rated words: [dr (139), foundation (189), agent (112), containment (201), personnel (168), data (124), recorded (140), time (174)]
+[scp-674.txt, scp-453.txt, scp-717.txt, scp-423.txt, scp-079.txt, scp-656.txt, scp-095.txt, scp-043.txt, scp-645.txt, scp-537.txt, scp-511.txt, scp-338.txt, scp-137.txt, scp-741.txt, scp-603.txt, scp-952.txt, scp-414.txt, scp-270.txt, scp-783.txt, scp-629.txt, scp-866.txt, scp-860.txt, scp-566.txt, scp-917.txt, scp-543.txt, scp-892.txt, scp-682.txt, scp-476.txt, scp-470.txt, scp-223.txt, scp-648.txt, scp-719.txt, scp-169.txt, scp-437.txt, scp-990.txt, scp-704.txt, scp-958.txt, scp-644.txt, scp-982.txt, scp-049.txt, scp-384.txt, scp-835.txt, scp-599.txt, scp-461.txt, scp-908.txt, scp-303.txt, scp-140.txt, scp-949.txt, scp-874.txt, scp-062.txt, scp-711.txt, scp-684.txt, scp-342.txt, scp-048.txt, scp-300.txt, scp-662.txt, scp-398.txt, scp-948.txt, scp-387.txt, scp-981.txt, scp-706.txt, scp-036.txt, scp-089.txt, scp-363.txt, scp-087.txt, scp-397.txt, scp-110.txt, scp-092.txt, scp-224.txt, scp-838.txt, scp-878.txt, scp-928.txt, scp-100.txt, scp-102.txt, scp-086.txt, scp-776.txt, scp-057.txt, scp-869.txt, scp-287.txt, scp-222.txt, scp-264.txt, scp-473.txt, scp-951.txt, scp-211.txt, scp-947.txt, scp-909.txt, scp-381.txt, scp-206.txt, scp-748.txt, scp-058.txt, scp-670.txt, scp-411.txt, scp-356.txt, scp-986.txt, scp-024.txt, scp-491.txt, scp-014.txt, scp-700.txt, scp-492.txt, scp-177.txt, scp-960.txt, scp-026.txt, scp-900.txt, scp-616.txt, scp-998.txt, scp-519.txt, scp-636.txt, scp-396.txt, scp-413.txt, scp-846.txt, scp-186.txt, scp-105.txt, scp-443.txt, scp-701.txt, scp-373.txt, scp-920.txt, scp-354.txt, scp-943.txt, scp-518.txt, scp-374.txt, scp-167.txt, scp-055.txt, scp-096.txt, scp-141.txt, scp-720.txt, scp-639.txt, scp-238.txt, scp-722.txt, scp-523.txt, scp-880.txt, scp-360.txt, scp-802.txt, scp-579.txt, scp-329.txt, scp-893.txt, scp-285.txt, scp-083.txt, scp-897.txt, scp-694.txt, scp-606.txt, scp-691.txt, scp-583.txt, scp-976.txt, scp-855.txt, scp-216.txt, scp-740.txt, scp-778.txt, scp-231.txt, scp-884.txt, scp-130.txt, scp-696.txt, scp-466.txt, scp-315.txt, scp-800.txt, scp-408.txt, scp-455.txt, scp-970.txt, scp-614.txt, scp-567.txt, scp-854.txt, scp-001.txt, scp-560.txt, scp-556.txt, scp-256.txt, scp-349.txt, scp-934.txt, scp-176.txt, scp-544.txt, scp-527.txt, scp-870.txt, scp-557.txt, scp-152.txt, scp-304.txt, scp-279.txt, scp-254.txt, scp-744.txt, scp-343.txt, scp-249.txt, scp-873.txt, scp-755.txt, scp-577.txt, scp-331.txt, scp-277.txt, scp-823.txt, scp-580.txt, scp-283.txt, scp-973.txt, scp-746.txt, scp-922.txt, scp-069.txt, scp-602.txt, scp-834.txt, scp-265.txt, scp-232.txt, scp-335.txt, scp-431.txt, scp-993.txt, scp-168.txt, scp-490.txt, scp-032.txt, scp-828.txt, scp-709.txt]
+Size: 202
+Self-similarity: 0.09308801586970623
+
+Top 8 rated words: [containment (258), instances (127), specimens (97), special (258), human (181), organs (146), area (156), foundation (188)]
+[scp-673.txt, scp-337.txt, scp-831.txt, scp-204.txt, scp-132.txt, scp-788.txt, scp-097.txt, scp-665.txt, scp-422.txt, scp-822.txt, scp-886.txt, scp-295.txt, scp-790.txt, scp-306.txt, scp-936.txt, scp-023.txt, scp-932.txt, scp-962.txt, scp-754.txt, scp-816.txt, scp-529.txt, scp-730.txt, scp-526.txt, scp-391.txt, scp-124.txt, scp-549.txt, scp-984.txt, scp-782.txt, scp-477.txt, scp-107.txt, scp-510.txt, scp-793.txt, scp-940.txt, scp-751.txt, scp-505.txt, scp-954.txt, scp-844.txt, scp-532.txt, scp-742.txt, scp-236.txt, scp-647.txt, scp-956.txt, scp-640.txt, scp-967.txt, scp-889.txt, scp-065.txt, scp-864.txt, scp-217.txt, scp-565.txt, scp-157.txt, scp-197.txt, scp-366.txt, scp-974.txt, scp-927.txt, scp-726.txt, scp-654.txt, scp-803.txt, scp-939.txt, scp-850.txt, scp-193.txt, scp-121.txt, scp-604.txt, scp-553.txt, scp-845.txt, scp-417.txt, scp-655.txt, scp-022.txt, scp-658.txt, scp-875.txt, scp-672.txt, scp-811.txt, scp-464.txt, scp-327.txt, scp-183.txt, scp-775.txt, scp-019.txt, scp-371.txt, scp-643.txt, scp-617.txt, scp-905.txt, scp-584.txt, scp-153.txt, scp-763.txt, scp-160.txt, scp-457.txt, scp-871.txt, scp-785.txt, scp-040.txt, scp-856.txt, scp-930.txt, scp-695.txt, scp-469.txt, scp-631.txt, scp-857.txt, scp-968.txt, scp-046.txt, scp-541.txt, scp-593.txt, scp-367.txt, scp-540.txt, scp-383.txt, scp-862.txt, scp-525.txt, scp-003.txt, scp-478.txt, scp-780.txt, scp-359.txt, scp-745.txt, scp-771.txt, scp-610.txt, scp-427.txt, scp-966.txt, scp-150.txt, scp-840.txt, scp-400.txt, scp-075.txt, scp-449.txt, scp-777.txt, scp-299.txt, scp-340.txt, scp-836.txt, scp-324.txt, scp-863.txt, scp-671.txt, scp-550.txt, scp-853.txt, scp-613.txt, scp-392.txt, scp-439.txt, scp-881.txt, scp-605.txt, scp-594.txt, scp-322.txt, scp-009.txt, scp-729.txt, scp-534.txt, scp-581.txt, scp-749.txt, scp-851.txt, scp-632.txt, scp-833.txt, scp-625.txt, scp-428.txt, scp-135.txt, scp-843.txt, scp-569.txt, scp-039.txt, scp-163.txt, scp-737.txt, scp-757.txt, scp-252.txt, scp-715.txt, scp-827.txt, scp-020.txt, scp-924.txt, scp-355.txt, scp-955.txt, scp-098.txt, scp-420.txt, scp-743.txt, scp-164.txt, scp-877.txt, scp-588.txt, scp-659.txt, scp-879.txt, scp-813.txt, scp-925.txt, scp-848.txt, scp-975.txt, scp-111.txt, scp-386.txt, scp-047.txt, scp-074.txt, scp-199.txt, scp-883.txt, scp-189.txt, scp-269.txt, scp-346.txt, scp-799.txt, scp-693.txt, scp-913.txt, scp-506.txt, scp-752.txt, scp-772.txt, scp-440.txt, scp-839.txt, scp-250.txt, scp-784.txt, scp-352.txt, scp-165.txt, scp-697.txt, scp-667.txt, scp-792.txt, scp-267.txt, scp-143.txt, scp-081.txt, scp-688.txt, scp-692.txt, scp-646.txt, scp-406.txt, scp-621.txt, scp-059.txt, scp-538.txt, scp-779.txt, scp-489.txt, scp-891.txt, scp-929.txt, scp-456.txt, scp-820.txt, scp-563.txt, scp-872.txt, scp-524.txt, scp-307.txt, scp-444.txt, scp-703.txt, scp-753.txt, scp-561.txt, scp-421.txt, scp-995.txt, scp-060.txt, scp-218.txt, scp-149.txt, scp-681.txt, scp-575.txt, scp-376.txt, scp-885.txt, scp-578.txt, scp-530.txt, scp-760.txt, scp-867.txt, scp-918.txt, scp-612.txt, scp-795.txt, scp-274.txt, scp-291.txt, scp-660.txt, scp-705.txt, scp-994.txt, scp-253.txt, scp-731.txt, scp-129.txt, scp-021.txt, scp-257.txt, scp-615.txt, scp-817.txt, scp-686.txt, scp-937.txt, scp-642.txt, scp-906.txt, scp-229.txt, scp-824.txt, scp-548.txt, scp-401.txt, scp-312.txt, scp-378.txt, scp-237.txt, scp-618.txt, scp-611.txt]
+Size: 258
+Self-similarity: 0.09930328982021307
+
+
+Weighted average self-similarity: 0.09825794827763625
